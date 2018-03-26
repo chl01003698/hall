@@ -1,0 +1,104 @@
+
+zhadan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+behit_huojian_01
+  rotate: true
+  xy: 451, 225
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+behit_huojian_02
+  rotate: false
+  xy: 657, 134
+  size: 92, 56
+  orig: 92, 56
+  offset: 0, 0
+  index: -1
+behit_huojian_03
+  rotate: false
+  xy: 451, 108
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+behit_huojian_04
+  rotate: true
+  xy: 888, 208
+  size: 132, 103
+  orig: 132, 103
+  offset: 0, 0
+  index: -1
+behit_huojian_05
+  rotate: false
+  xy: 743, 231
+  size: 143, 109
+  orig: 143, 109
+  offset: 0, 0
+  index: -1
+behit_huojian_06
+  rotate: false
+  xy: 2, 2
+  size: 193, 113
+  orig: 193, 113
+  offset: 0, 0
+  index: -1
+behit_huojian_07
+  rotate: false
+  xy: 496, 192
+  size: 245, 132
+  orig: 245, 132
+  offset: 0, 0
+  index: -1
+behit_huojian_08
+  rotate: false
+  xy: 740, 342
+  size: 256, 156
+  orig: 256, 156
+  offset: 0, 0
+  index: -1
+behit_huojian_09
+  rotate: false
+  xy: 496, 326
+  size: 242, 172
+  orig: 242, 172
+  offset: 0, 0
+  index: -1
+behit_huojian_10
+  rotate: false
+  xy: 2, 117
+  size: 250, 185
+  orig: 250, 185
+  offset: 0, 0
+  index: -1
+behit_huojian_11
+  rotate: false
+  xy: 263, 297
+  size: 231, 201
+  orig: 231, 201
+  offset: 0, 0
+  index: -1
+behit_huojian_12
+  rotate: true
+  xy: 254, 102
+  size: 193, 195
+  orig: 193, 195
+  offset: 0, 0
+  index: -1
+behit_huojian_13
+  rotate: true
+  xy: 562, 106
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 304
+  size: 259, 194
+  orig: 259, 194
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+doudizhu_mofabiaoqing_tuoxie.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+shoes
+  rotate: false
+  xy: 124, 29
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+shoesShadow
+  rotate: false
+  xy: 204, 29
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1

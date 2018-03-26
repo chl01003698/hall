@@ -1,0 +1,104 @@
+
+teshupaixing.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doudizhu_paizhuo_shunzi
+  rotate: false
+  xy: 630, 258
+  size: 180, 93
+  orig: 180, 93
+  offset: 0, 0
+  index: -1
+straight_wind1
+  rotate: false
+  xy: 260, 6
+  size: 173, 136
+  orig: 173, 136
+  offset: 0, 0
+  index: -1
+straight_wind2
+  rotate: false
+  xy: 2, 98
+  size: 223, 148
+  orig: 223, 148
+  offset: 0, 0
+  index: -1
+straight_wind3
+  rotate: false
+  xy: 2, 248
+  size: 343, 140
+  orig: 343, 140
+  offset: 0, 0
+  index: -1
+straight_wind4
+  rotate: false
+  xy: 2, 390
+  size: 369, 119
+  orig: 369, 119
+  offset: 0, 0
+  index: -1
+straight_wind5
+  rotate: false
+  xy: 373, 406
+  size: 315, 103
+  orig: 315, 103
+  offset: 0, 0
+  index: -1
+straight_wind6
+  rotate: false
+  xy: 443, 139
+  size: 201, 107
+  orig: 201, 107
+  offset: 0, 0
+  index: -1
+straight_wind7
+  rotate: false
+  xy: 227, 144
+  size: 214, 102
+  orig: 214, 102
+  offset: 0, 0
+  index: -1
+zhuomian_shunzi_liandui
+  rotate: false
+  xy: 435, 44
+  size: 183, 93
+  orig: 183, 93
+  offset: 0, 0
+  index: -1
+zhuomian_shunzi_sandaire
+  rotate: false
+  xy: 690, 415
+  size: 256, 94
+  orig: 256, 94
+  offset: 0, 0
+  index: -1
+zhuomian_shunzi_sandaiyi
+  rotate: false
+  xy: 2, 2
+  size: 256, 94
+  orig: 256, 94
+  offset: 0, 0
+  index: -1
+zhuomian_shunzi_sandaiyidui
+  rotate: false
+  xy: 347, 248
+  size: 233, 60
+  orig: 233, 60
+  offset: 0, 0
+  index: -1
+zhuomian_shunzi_sidaire
+  rotate: false
+  xy: 373, 310
+  size: 255, 94
+  orig: 255, 94
+  offset: 0, 0
+  index: -1
+zhuomian_shunzi_sidairedui
+  rotate: false
+  xy: 690, 353
+  size: 231, 60
+  orig: 231, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "11af3497-9710-4e4b-bbf9-f4a82e45fd0b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "doudizhu_icon_lunbotu01": {
+      "ver": "1.0.3",
+      "uuid": "9931d1f4-c1dd-4f9c-beba-e90390c5dbed",
+      "rawTextureUuid": "11af3497-9710-4e4b-bbf9-f4a82e45fd0b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 332,
+      "height": 348,
+      "rawWidth": 332,
+      "rawHeight": 348,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

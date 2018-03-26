@@ -1,0 +1,20 @@
+
+doudizhu_mofabiaoqing_tomato.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tomato
+  rotate: false
+  xy: 134, 18
+  size: 84, 88
+  orig: 84, 88
+  offset: 0, 0
+  index: -1
+tomato2
+  rotate: false
+  xy: 2, 2
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1

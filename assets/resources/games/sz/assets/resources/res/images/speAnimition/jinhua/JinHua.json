@@ -1,0 +1,193 @@
+{
+"skeleton": { "hash": "ucJ/4BMKauG8UPa8fK2vbgKA3Tw", "spine": "3.6.52", "width": 652, "height": 290, "images": "D:\\赢三张\\金花\\images" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "jinhua_00000", "bone": "root", "attachment": "jinhua_00000" },
+	{ "name": "jinhua_00001", "bone": "root", "attachment": "jinhua_00001" },
+	{ "name": "jinhua_00002", "bone": "root", "attachment": "jinhua_00002" },
+	{ "name": "jinhua_00003", "bone": "root", "attachment": "jinhua_00003" },
+	{ "name": "jinhua_00004", "bone": "root", "attachment": "jinhua_00004" },
+	{ "name": "jinhua_00005", "bone": "root", "attachment": "jinhua_00005" },
+	{ "name": "jinhua_00006", "bone": "root", "attachment": "jinhua_00006" },
+	{ "name": "jinhua_00007", "bone": "root", "attachment": "jinhua_00007" },
+	{ "name": "jinhua_00008", "bone": "root", "attachment": "jinhua_00008" },
+	{ "name": "jinhua_00009", "bone": "root", "attachment": "jinhua_00009" },
+	{ "name": "jinhua_00010", "bone": "root", "attachment": "jinhua_00010" },
+	{ "name": "jinhua_00011", "bone": "root", "attachment": "jinhua_00011" },
+	{ "name": "jinhua_00012", "bone": "root", "attachment": "jinhua_00012" },
+	{ "name": "jinhua_00013", "bone": "root", "attachment": "jinhua_00013" },
+	{ "name": "jinhua_00014", "bone": "root", "attachment": "jinhua_00014" },
+	{ "name": "jinhua_00015", "bone": "root", "attachment": "jinhua_00015" }
+],
+"skins": {
+	"default": {
+		"jinhua_00000": {
+			"jinhua_00000": { "x": 393.5, "y": 172, "width": 283, "height": 120 }
+		},
+		"jinhua_00001": {
+			"jinhua_00001": { "x": 426, "y": 167.5, "width": 362, "height": 207 }
+		},
+		"jinhua_00002": {
+			"jinhua_00002": { "x": 396.5, "y": 161, "width": 405, "height": 226 }
+		},
+		"jinhua_00003": {
+			"jinhua_00003": { "x": 378, "y": 153, "width": 458, "height": 242 }
+		},
+		"jinhua_00004": {
+			"jinhua_00004": { "x": 344.5, "y": 157, "width": 525, "height": 234 }
+		},
+		"jinhua_00005": {
+			"jinhua_00005": { "x": 334.5, "y": 161, "width": 633, "height": 226 }
+		},
+		"jinhua_00006": {
+			"jinhua_00006": { "x": 389, "y": 150.5, "width": 562, "height": 263 }
+		},
+		"jinhua_00007": {
+			"jinhua_00007": { "x": 365.5, "y": 141, "width": 609, "height": 282 }
+		},
+		"jinhua_00008": {
+			"jinhua_00008": { "x": 325.5, "y": 145, "width": 563, "height": 290 }
+		},
+		"jinhua_00009": {
+			"jinhua_00009": { "x": 327, "y": 137, "width": 560, "height": 274 }
+		},
+		"jinhua_00010": {
+			"jinhua_00010": { "x": 413.5, "y": 161, "width": 387, "height": 226 }
+		},
+		"jinhua_00011": {
+			"jinhua_00011": { "x": 413.5, "y": 161, "width": 387, "height": 226 }
+		},
+		"jinhua_00012": {
+			"jinhua_00012": { "x": 386, "y": 161, "width": 442, "height": 226 }
+		},
+		"jinhua_00013": {
+			"jinhua_00013": { "x": 386, "y": 161, "width": 442, "height": 226 }
+		},
+		"jinhua_00014": {
+			"jinhua_00014": { "x": 390, "y": 161, "width": 434, "height": 226 }
+		},
+		"jinhua_00015": {
+			"jinhua_00015": { "x": 396, "y": 161, "width": 422, "height": 226 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"jinhua_00000": {
+				"attachment": [
+					{ "time": 0, "name": "jinhua_00000" },
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"jinhua_00001": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "jinhua_00001" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"jinhua_00002": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "jinhua_00002" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"jinhua_00003": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": "jinhua_00003" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"jinhua_00004": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "jinhua_00004" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"jinhua_00005": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "jinhua_00005" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"jinhua_00006": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6, "name": "jinhua_00006" },
+					{ "time": 0.7, "name": null }
+				]
+			},
+			"jinhua_00007": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7, "name": "jinhua_00007" },
+					{ "time": 0.8, "name": null }
+				]
+			},
+			"jinhua_00008": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8, "name": "jinhua_00008" },
+					{ "time": 0.9, "name": null }
+				]
+			},
+			"jinhua_00009": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.9, "name": "jinhua_00009" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"jinhua_00010": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "jinhua_00010" },
+					{ "time": 1.1, "name": null }
+				]
+			},
+			"jinhua_00011": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.1, "name": "jinhua_00011" },
+					{ "time": 1.2, "name": null }
+				]
+			},
+			"jinhua_00012": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.2, "name": "jinhua_00012" },
+					{ "time": 1.3, "name": null }
+				]
+			},
+			"jinhua_00013": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.3, "name": "jinhua_00013" },
+					{ "time": 1.4, "name": null }
+				]
+			},
+			"jinhua_00014": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.4, "name": "jinhua_00014" },
+					{ "time": 1.5, "name": null }
+				]
+			},
+			"jinhua_00015": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.5, "name": "jinhua_00015" },
+					{ "time": 1.6, "name": null }
+				]
+			}
+		}
+	}
+}
+}

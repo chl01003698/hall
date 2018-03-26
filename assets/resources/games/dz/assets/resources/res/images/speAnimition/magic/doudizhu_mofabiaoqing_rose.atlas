@@ -1,0 +1,13 @@
+
+doudizhu_mofabiaoqing_rose.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rose
+  rotate: false
+  xy: 2, 2
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1

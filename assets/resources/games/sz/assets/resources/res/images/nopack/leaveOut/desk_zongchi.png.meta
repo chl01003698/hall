@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "11683ce6-0d2f-4e35-b239-a1907882fba6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "desk_zongchi": {
+      "ver": "1.0.3",
+      "uuid": "f9505f04-8347-4874-94b4-b2b4705d6ce5",
+      "rawTextureUuid": "11683ce6-0d2f-4e35-b239-a1907882fba6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 36,
+      "height": 38,
+      "rawWidth": 36,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

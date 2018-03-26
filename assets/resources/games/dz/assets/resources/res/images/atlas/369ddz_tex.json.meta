@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "298a8fb3-5271-4dde-97e9-c8715dfe159d",
+  "atlasJson": "{\"SubTexture\":[{\"width\":53,\"y\":532,\"height\":63,\"name\":\"kuchayinying\",\"x\":103},{\"width\":69,\"y\":419,\"height\":117,\"name\":\"yifuyinying_1\",\"x\":207},{\"width\":269,\"y\":1,\"height\":174,\"name\":\"xiangzi\",\"x\":226},{\"width\":100,\"y\":461,\"height\":106,\"name\":\"youtui\",\"x\":1},{\"width\":108,\"y\":334,\"height\":140,\"name\":\"zuotui\",\"x\":367},{\"width\":216,\"y\":247,\"height\":95,\"name\":\"kucha\",\"x\":1},{\"width\":97,\"y\":344,\"height\":121,\"name\":\"youshou\",\"x\":108},{\"width\":105,\"y\":344,\"height\":115,\"name\":\"yifuyou\",\"x\":1},{\"width\":132,\"y\":348,\"height\":69,\"name\":\"duzi_1\",\"x\":207},{\"width\":94,\"y\":467,\"height\":63,\"name\":\"xiong\",\"x\":103},{\"width\":223,\"y\":1,\"height\":244,\"name\":\"tou_1\",\"x\":1},{\"width\":139,\"y\":177,\"height\":169,\"name\":\"zuoshou\",\"x\":226},{\"width\":121,\"y\":177,\"height\":155,\"name\":\"yifuzuo\",\"x\":367}],\"width\":512,\"height\":1024,\"name\":\"369ddz\",\"imagePath\":\"369ddz_tex.png\"}",
+  "texture": "6cf54b3d-9f6b-444b-b00d-2c52173e9c90",
+  "subMetas": {}
+}

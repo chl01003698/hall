@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fdfbb441-a6f6-4bfa-b771-030653af647e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "deskRecord_icon_dayingjia": {
+      "ver": "1.0.3",
+      "uuid": "f847abb5-3e57-43d1-af8a-f76df4bd346c",
+      "rawTextureUuid": "fdfbb441-a6f6-4bfa-b771-030653af647e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 87,
+      "height": 80,
+      "rawWidth": 88,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,171 @@
+
+eff_choice.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00012
+  rotate: false
+  xy: 2, 689
+  size: 602, 328
+  orig: 602, 328
+  offset: 0, 0
+  index: -1
+00013
+  rotate: false
+  xy: 2, 359
+  size: 602, 328
+  orig: 602, 328
+  offset: 0, 0
+  index: -1
+00014
+  rotate: true
+  xy: 606, 2
+  size: 411, 254
+  orig: 411, 254
+  offset: 0, 0
+  index: -1
+00016
+  rotate: true
+  xy: 606, 415
+  size: 602, 328
+  orig: 602, 328
+  offset: 0, 0
+  index: -1
+00017
+  rotate: false
+  xy: 2, 29
+  size: 602, 328
+  orig: 602, 328
+  offset: 0, 0
+  index: -1
+
+eff_choice2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: false
+  xy: 493, 808
+  size: 235, 209
+  orig: 235, 209
+  offset: 0, 0
+  index: -1
+00001
+  rotate: false
+  xy: 255, 818
+  size: 236, 199
+  orig: 236, 199
+  offset: 0, 0
+  index: -1
+00002
+  rotate: false
+  xy: 2, 825
+  size: 251, 192
+  orig: 251, 192
+  offset: 0, 0
+  index: -1
+00003
+  rotate: false
+  xy: 383, 312
+  size: 476, 237
+  orig: 476, 237
+  offset: 0, 0
+  index: -1
+00004
+  rotate: false
+  xy: 2, 47
+  size: 581, 263
+  orig: 581, 263
+  offset: 0, 0
+  index: -1
+00009
+  rotate: false
+  xy: 2, 587
+  size: 309, 229
+  orig: 309, 229
+  offset: 0, 0
+  index: -1
+00010
+  rotate: false
+  xy: 313, 577
+  size: 345, 229
+  orig: 345, 229
+  offset: 0, 0
+  index: -1
+00011
+  rotate: false
+  xy: 2, 346
+  size: 379, 229
+  orig: 379, 229
+  offset: 0, 0
+  index: -1
+00015
+  rotate: false
+  xy: 585, 2
+  size: 435, 308
+  orig: 435, 308
+  offset: 0, 0
+  index: -1
+00019
+  rotate: true
+  xy: 660, 551
+  size: 239, 240
+  orig: 239, 240
+  offset: 0, 0
+  index: -1
+00020
+  rotate: false
+  xy: 730, 792
+  size: 239, 225
+  orig: 239, 225
+  offset: 0, 0
+  index: -1
+
+eff_choice3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00006
+  rotate: false
+  xy: 2, 2
+  size: 602, 293
+  orig: 602, 293
+  offset: 0, 0
+  index: -1
+00007
+  rotate: false
+  xy: 2, 297
+  size: 602, 308
+  orig: 602, 308
+  offset: 0, 0
+  index: -1
+00008
+  rotate: true
+  xy: 606, 333
+  size: 602, 308
+  orig: 602, 308
+  offset: 0, 0
+  index: -1
+00018
+  rotate: false
+  xy: 2, 607
+  size: 602, 328
+  orig: 602, 328
+  offset: 0, 0
+  index: -1
+
+eff_choice4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00005
+  rotate: false
+  xy: 2, 2
+  size: 602, 285
+  orig: 602, 285
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+eff_choice.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+choice
+  rotate: false
+  xy: 2, 2
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1

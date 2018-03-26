@@ -1,0 +1,90 @@
+
+doudizhu_paizhuo_chuntian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuntian
+  rotate: false
+  xy: 644, 865
+  size: 295, 153
+  orig: 295, 153
+  offset: 0, 0
+  index: -1
+chuntian_hd1
+  rotate: false
+  xy: 732, 803
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+chuntian_hd2
+  rotate: false
+  xy: 380, 200
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+chuntian_hua1
+  rotate: false
+  xy: 644, 753
+  size: 86, 110
+  orig: 86, 110
+  offset: 0, 0
+  index: -1
+chuntian_hua2
+  rotate: false
+  xy: 644, 695
+  size: 80, 56
+  orig: 80, 56
+  offset: 0, 0
+  index: -1
+chuntian_hua3
+  rotate: false
+  xy: 380, 272
+  size: 114, 96
+  orig: 114, 96
+  offset: 0, 0
+  index: -1
+chuntian_hua4
+  rotate: false
+  xy: 194, 106
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+chuntian_hua5
+  rotate: false
+  xy: 2, 2
+  size: 190, 192
+  orig: 190, 192
+  offset: 0, 0
+  index: -1
+chuntian_hua6
+  rotate: false
+  xy: 496, 276
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+chuntian_hua7
+  rotate: false
+  xy: 941, 912
+  size: 80, 106
+  orig: 80, 106
+  offset: 0, 0
+  index: -1
+chuntian_shuye2
+  rotate: false
+  xy: 2, 196
+  size: 376, 172
+  orig: 376, 172
+  offset: 0, 0
+  index: -1
+ddzwl_shengliguang
+  rotate: false
+  xy: 2, 370
+  size: 640, 648
+  orig: 640, 648
+  offset: 0, 0
+  index: -1

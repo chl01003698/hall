@@ -1,0 +1,347 @@
+[
+    {
+        "id": 1,
+        "name": "bgm",
+        "path": "bgm.mp3"
+    },
+    {
+        "id": 2,
+        "name": "baozha",
+        "path": "baozha.mp3"
+    },
+    {
+        "id": 4,
+        "name": "daxi",
+        "path": "daxi.mp3"
+    },
+    {
+        "id": 5,
+        "name": "kuaijieyu1_M",
+        "path": "chatSound/kuaijieyu1_M.mp3"
+    },
+    {
+        "id": 6,
+        "name": "kuaijieyu2_M",
+        "path": "chatSound/kuaijieyu2_M.mp3"
+    },
+    {
+        "id": 7,
+        "name": "kuaijieyu3_M",
+        "path": "chatSound/kuaijieyu3_M.mp3"
+    },
+    {
+        "id": 8,
+        "name": "kuaijieyu4_M",
+        "path": "chatSound/kuaijieyu4_M.mp3"
+    },
+    {
+        "id": 9,
+        "name": "kuaijieyu5_M",
+        "path": "chatSound/kuaijieyu5_M.mp3"
+    },
+    {
+        "id": 10,
+        "name": "kuaijieyu6_M",
+        "path": "chatSound/kuaijieyu6_M.mp3"
+    },
+    {
+        "id": 11,
+        "name": "kuaijieyu7_M",
+        "path": "chatSound/kuaijieyu7_M.mp3"
+    },
+    {
+        "id": 12,
+        "name": "kuaijieyu8_M",
+        "path": "chatSound/kuaijieyu8_M.mp3"
+    },
+    {
+        "id": 13,
+        "name": "kuaijieyu9_M",
+        "path": "chatSound/kuaijieyu9_M.mp3"
+    },
+    {
+        "id": 14,
+        "name": "kuaijieyu10_M",
+        "path": "chatSound/kuaijieyu10_M.mp3"
+    },
+    {
+        "id": 15,
+        "name": "kuaijieyu1_W",
+        "path": "chatSound/kuaijieyu1_W.mp3"
+    },
+    {
+        "id": 16,
+        "name": "kuaijieyu2_W",
+        "path": "chatSound/kuaijieyu2_W.mp3"
+    },
+    {
+        "id": 17,
+        "name": "kuaijieyu3_W",
+        "path": "chatSound/kuaijieyu3_W.mp3"
+    },
+    {
+        "id": 18,
+        "name": "kuaijieyu4_W",
+        "path": "chatSound/kuaijieyu4_W.mp3"
+    },
+    {
+        "id": 19,
+        "name": "kuaijieyu5_W",
+        "path": "chatSound/kuaijieyu5_W.mp3"
+    },
+    {
+        "id": 20,
+        "name": "kuaijieyu6_W",
+        "path": "chatSound/kuaijieyu6_W.mp3"
+    },
+    {
+        "id": 21,
+        "name": "kuaijieyu7_W",
+        "path": "chatSound/kuaijieyu7_W.mp3"
+    },
+    {
+        "id": 22,
+        "name": "kuaijieyu8_W",
+        "path": "chatSound/kuaijieyu8_W.mp3"
+    },
+    {
+        "id": 23,
+        "name": "kuaijieyu9_W",
+        "path": "chatSound/kuaijieyu9_W.mp3"
+    },
+    {
+        "id": 24,
+        "name": "kuaijieyu10_W",
+        "path": "chatSound/kuaijieyu10_W.mp3"
+    },
+    {
+        "id": 25,
+        "name": "fapai",
+        "path": "fapai.mp3"
+    },
+    {
+        "id": 26,
+        "name": "huopin",
+        "path": "huopin.mp3"
+    },
+    {
+        "id": 27,
+        "name": "laizi",
+        "path": "laizi.mp3"
+    },
+    {
+        "id": 28,
+        "name": "start",
+        "path": "start.mp3"
+    },
+    {
+        "id": 29,
+        "name": "xiachouma",
+        "path": "xiachouma.mp3"
+    },
+    {
+        "id": 30,
+        "name": "yingjia",
+        "path": "yingjia.mp3"
+    },
+    {
+        "id": 31,
+        "name": "zhunbei",
+        "path": "zhunbei.mp3"
+    },
+    {
+        "id": 32,
+        "name": "bipai1_M",
+        "path": "battleSound/bipai1_M.mp3"
+    },
+    {
+        "id": 33,
+        "name": "bipai1_W",
+        "path": "battleSound/bipai1_W.mp3"
+    },
+    {
+        "id": 34,
+        "name": "bipai2_M",
+        "path": "battleSound/bipai2_M.mp3"
+    },
+    {
+        "id": 35,
+        "name": "bipai2_W",
+        "path": "battleSound/bipai2_W.mp3"
+    },
+    {
+        "id": 36,
+        "name": "bipai3_M",
+        "path": "battleSound/bipai3_M.mp3"
+    },
+    {
+        "id": 37,
+        "name": "bipai3_W",
+        "path": "battleSound/bipai3_W.mp3"
+    },
+    {
+        "id": 38,
+        "name": "bipai4_M",
+        "path": "battleSound/bipai4_M.mp3"
+    },
+    {
+        "id": 39,
+        "name": "bipai4_W",
+        "path": "battleSound/bipai4_W.mp3"
+    },
+    {
+        "id": 40,
+        "name": "genzhu1_M",
+        "path": "battleSound/genzhu1_M.mp3"
+    },
+    {
+        "id": 41,
+        "name": "genzhu1_W",
+        "path": "battleSound/genzhu1_W.mp3"
+    },
+    {
+        "id": 42,
+        "name": "genzhu2_M",
+        "path": "battleSound/genzhu2_M.mp3"
+    },
+    {
+        "id": 43,
+        "name": "genzhu2_W",
+        "path": "battleSound/genzhu2_W.mp3"
+    },
+    {
+        "id": 44,
+        "name": "bujiabei_M",
+        "path": "battleSound/bujiabei_M.mp3"
+    },
+    {
+        "id": 45,
+        "name": "genzhu2_M",
+        "path": "battleSound/jiabei_W.mp3"
+    },
+    {
+        "id": 46,
+        "name": "genzhu3_M",
+        "path": "battleSound/genzhu3_M.mp3"
+    },
+    {
+        "id": 47,
+        "name": "genzhu3_W",
+        "path": "battleSound/genzhu3_W.mp3"
+    },
+    {
+        "id": 48,
+        "name": "genzhu4_M",
+        "path": "battleSound/genzhu4_M1.mp3"
+    },
+    {
+        "id": 49,
+        "name": "genzhu4_W",
+        "path": "battleSound/genzhu4_W.mp3"
+    },
+    {
+        "id": 50,
+        "name": "huopin1_M",
+        "path": "battleSound/huopin1_M.mp3"
+    },
+    {
+        "id": 51,
+        "name": "huopin1_W",
+        "path": "battleSound/huopin1_W.mp3"
+    },
+    {
+        "id": 52,
+        "name": "huopin2_M",
+        "path": "battleSound/huopin2_M.mp3"
+    },
+    {
+        "id": 53,
+        "name": "huopin2_W",
+        "path": "battleSound/huopin2_W.mp3"
+    },
+    {
+        "id": 54,
+        "name": "jiazhu1_M",
+        "path": "battleSound/jiazhu1_M.mp3"
+    },
+    {
+        "id": 55,
+        "name": "jiazhu1_W",
+        "path": "battleSound/jiazhu1_W.mp3"
+    },
+    {
+        "id": 56,
+        "name": "jiazhu2_M",
+        "path": "battleSound/jiazhu2_M.mp3"
+    },
+    {
+        "id": 57,
+        "name": "jiazhu2_W",
+        "path": "battleSound/jiazhu2_W.mp3"
+    },
+    {
+        "id": 58,
+        "name": "jiazhu3_M",
+        "path": "battleSound/jiazhu3_M.mp3"
+    },
+    {
+        "id": 59,
+        "name": "jiazhu3_W",
+        "path": "battleSound/jiazhu3_W.mp3"
+    },
+    {
+        "id": 60,
+        "name": "kanpai_M",
+        "path": "battleSound/kanpai_M.mp3"
+    },
+    {
+        "id": 61,
+        "name": "kanpai_W",
+        "path": "battleSound/kanpai_W.mp3"
+    },
+    {
+        "id": 62,
+        "name": "qipai1_M",
+        "path": "battleSound/qipai1_M.mp3"
+    },
+    {
+        "id": 63,
+        "name": "qipai1_W",
+        "path": "battleSound/qipai1_W.mp3"
+    },
+    {
+        "id": 64,
+        "name": "qipai2_M",
+        "path": "battleSound/qipai2_M.mp3"
+    },
+    {
+        "id": 65,
+        "name": "qipai2_W",
+        "path": "battleSound/qipai2_W.mp3"
+    },
+    {
+        "id": 66,
+        "name": "qipai3_M",
+        "path": "battleSound/qipai3_M.mp3"
+    },
+    {
+        "id": 67,
+        "name": "qipai3_W",
+        "path": "battleSound/qipai3_W.mp3"
+    },
+    {
+        "id": 77,
+        "name": "zongjiesuan",
+        "path": "zongjiesuan.mp3"
+    },
+    {
+        "id": 78,
+        "name": "baozi",
+        "path": "baozi.mp3"
+    },
+    {
+        "id": 79,
+        "name": "shunzi",
+        "path": "shunzi.mp3"
+    }
+]

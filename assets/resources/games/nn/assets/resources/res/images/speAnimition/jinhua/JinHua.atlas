@@ -1,0 +1,124 @@
+
+JinHua.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinhua_00001
+  rotate: false
+  xy: 637, 811
+  size: 362, 207
+  orig: 362, 207
+  offset: 0, 0
+  index: -1
+jinhua_00003
+  rotate: false
+  xy: 2, 2
+  size: 458, 242
+  orig: 458, 242
+  offset: 0, 0
+  index: -1
+jinhua_00004
+  rotate: false
+  xy: 462, 10
+  size: 525, 234
+  orig: 525, 234
+  offset: 0, 0
+  index: -1
+jinhua_00005
+  rotate: false
+  xy: 2, 792
+  size: 633, 226
+  orig: 633, 226
+  offset: 0, 0
+  index: -1
+jinhua_00007
+  rotate: false
+  xy: 2, 508
+  size: 609, 282
+  orig: 609, 282
+  offset: 0, 0
+  index: -1
+jinhua_00008
+  rotate: true
+  xy: 637, 246
+  size: 563, 290
+  orig: 563, 290
+  offset: 0, 0
+  index: -1
+jinhua_00012
+  rotate: false
+  xy: 2, 280
+  size: 442, 226
+  orig: 442, 226
+  offset: 0, 0
+  index: -1
+
+JinHua2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinhua_00000
+  rotate: true
+  xy: 2, 30
+  size: 283, 120
+  orig: 283, 120
+  offset: 0, 0
+  index: -1
+jinhua_00002
+  rotate: false
+  xy: 124, 230
+  size: 405, 226
+  orig: 405, 226
+  offset: 0, 0
+  index: -1
+jinhua_00006
+  rotate: false
+  xy: 2, 734
+  size: 562, 263
+  orig: 562, 263
+  offset: 0, 0
+  index: -1
+jinhua_00009
+  rotate: false
+  xy: 2, 458
+  size: 560, 274
+  orig: 560, 274
+  offset: 0, 0
+  index: -1
+jinhua_00010
+  rotate: false
+  xy: 124, 2
+  size: 387, 226
+  orig: 387, 226
+  offset: 0, 0
+  index: -1
+jinhua_00011
+  rotate: false
+  xy: 513, 2
+  size: 387, 226
+  orig: 387, 226
+  offset: 0, 0
+  index: -1
+jinhua_00013
+  rotate: false
+  xy: 566, 771
+  size: 442, 226
+  orig: 442, 226
+  offset: 0, 0
+  index: -1
+jinhua_00014
+  rotate: false
+  xy: 566, 543
+  size: 434, 226
+  orig: 434, 226
+  offset: 0, 0
+  index: -1
+jinhua_00015
+  rotate: false
+  xy: 564, 315
+  size: 422, 226
+  orig: 422, 226
+  offset: 0, 0
+  index: -1

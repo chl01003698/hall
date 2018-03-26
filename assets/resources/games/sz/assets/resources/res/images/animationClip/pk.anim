@@ -1,0 +1,249 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pk",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.76,
+  "sample": 25,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "pokersLeft": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -465
+            },
+            {
+              "frame": 0.28,
+              "value": -122
+            }
+          ]
+        }
+      },
+      "pokersRight": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 432
+            },
+            {
+              "frame": 0.28,
+              "value": 106
+            }
+          ]
+        }
+      },
+      "pokersRight/head": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0.28,
+              "value": 0
+            },
+            {
+              "frame": 0.36,
+              "value": 0
+            },
+            {
+              "frame": 0.48,
+              "value": -30
+            },
+            {
+              "frame": 0.48,
+              "value": -30
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "zhandan": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.44,
+              "value": 0
+            },
+            {
+              "frame": 0.48,
+              "value": 255
+            },
+            {
+              "frame": 0.48,
+              "value": 255
+            },
+            {
+              "frame": 0.8,
+              "value": 255
+            },
+            {
+              "frame": 1.68,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.52,
+              "value": [
+                74,
+                45
+              ]
+            },
+            {
+              "frame": 0.56,
+              "value": [
+                29,
+                98
+              ]
+            },
+            {
+              "frame": 0.6,
+              "value": [
+                -30,
+                114
+              ]
+            },
+            {
+              "frame": 0.64,
+              "value": [
+                -91,
+                106
+              ]
+            },
+            {
+              "frame": 0.68,
+              "value": [
+                -174,
+                106
+              ]
+            },
+            {
+              "frame": 0.72,
+              "value": [
+                -217,
+                95
+              ]
+            },
+            {
+              "frame": 0.76,
+              "value": [
+                -252,
+                52
+              ]
+            },
+            {
+              "frame": 0.8,
+              "value": [
+                -276,
+                28
+              ]
+            }
+          ]
+        }
+      },
+      "pokersLeft/head": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.92,
+              "value": [
+                -142,
+                1
+              ]
+            },
+            {
+              "frame": 1.68,
+              "value": [
+                -142,
+                1
+              ]
+            },
+            {
+              "frame": 2.12,
+              "value": [
+                -425,
+                241
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1.68,
+              "value": 0
+            },
+            {
+              "frame": 1.92,
+              "value": -180
+            },
+            {
+              "frame": 2.12,
+              "value": -360
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2.12,
+              "value": 255
+            },
+            {
+              "frame": 2.28,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "pokersLeft/head/bomb": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.88,
+              "value": 0
+            },
+            {
+              "frame": 0.92,
+              "value": 255
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "x": [
+        {
+          "frame": 2.28,
+          "value": 0
+        },
+        {
+          "frame": 2.76,
+          "value": 541
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.92,
+      "func": "playBomb",
+      "params": []
+    },
+    {
+      "frame": 2.76,
+      "func": "over",
+      "params": []
+    }
+  ]
+}

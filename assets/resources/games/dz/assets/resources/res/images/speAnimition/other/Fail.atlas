@@ -1,0 +1,55 @@
+
+Fail.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddzwl_shibaiguang
+  rotate: false
+  xy: 2, 466
+  size: 511, 489
+  orig: 511, 489
+  offset: 0, 0
+  index: -1
+ddzwl_yun
+  rotate: false
+  xy: 2, 2
+  size: 180, 102
+  orig: 180, 102
+  offset: 0, 0
+  index: -1
+dizhu_shibai_renwu
+  rotate: false
+  xy: 515, 559
+  size: 143, 258
+  orig: 143, 258
+  offset: 0, 0
+  index: -1
+dizhu_shiban_txt
+  rotate: false
+  xy: 515, 819
+  size: 277, 136
+  orig: 277, 136
+  offset: 0, 0
+  index: -1
+nongmin_shiban_renwu
+  rotate: true
+  xy: 794, 841
+  size: 114, 206
+  orig: 114, 206
+  offset: 0, 0
+  index: -1
+nongmin_shiban_txt
+  rotate: false
+  xy: 2, 106
+  size: 276, 136
+  orig: 276, 136
+  offset: 0, 0
+  index: -1
+shiban_zhuangshi_bj
+  rotate: false
+  xy: 2, 244
+  size: 456, 220
+  orig: 456, 220
+  offset: 0, 0
+  index: -1

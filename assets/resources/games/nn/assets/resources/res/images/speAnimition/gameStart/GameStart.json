@@ -1,0 +1,129 @@
+{
+"skeleton": { "hash": "hWm03+Q/EvRWCQI6tEvggddkuIA", "spine": "3.6.52", "width": 516, "height": 300, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Game", "parent": "root", "x": -119.58 },
+	{ "name": "Light", "parent": "root", "x": -28.2 },
+	{ "name": "Start", "parent": "root", "x": 38.36 }
+],
+"slots": [
+	{ "name": "Start", "bone": "Start", "attachment": "Start" },
+	{ "name": "Game", "bone": "Game", "attachment": "Game" },
+	{ "name": "GameLight", "bone": "Game", "attachment": "GameLight", "blend": "screen" },
+	{ "name": "StartLight", "bone": "Start", "attachment": "StartLight", "blend": "screen" },
+	{ "name": "Light", "bone": "Light", "color": "ff9218ff", "attachment": "Light", "blend": "screen" }
+],
+"skins": {
+	"default": {
+		"Game": {
+			"Game": { "x": 10.29, "y": 9.87, "width": 166, "height": 93 }
+		},
+		"GameLight": {
+			"GameLight": { "x": -29.83, "y": 14.87, "width": 258, "height": 83 }
+		},
+		"Light": {
+			"Light": { "x": 5.38, "y": 18.49, "scaleX": 2, "scaleY": 2, "width": 258, "height": 150 }
+		},
+		"Start": {
+			"Start": { "x": 8.79, "y": 9.87, "width": 167, "height": 93 }
+		},
+		"StartLight": {
+			"StartLight": { "x": 47.61, "y": 2.63, "width": 257, "height": 109 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"Game": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 2.2, "name": null }
+				]
+			},
+			"GameLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "ffffffcd" },
+					{ "time": 0.2333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"Light": {
+				"color": [
+					{ "time": 0, "color": "ff911700" },
+					{ "time": 0.3, "color": "ffc015ff" },
+					{ "time": 1.9667, "color": "ff901500" }
+				],
+				"attachment": [
+					{ "time": 2.2, "name": null }
+				]
+			},
+			"Start": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 2.2, "name": null }
+				]
+			},
+			"StartLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "ffffffbe" },
+					{ "time": 0.2333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 2.2, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Game": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -480.64,
+						"y": 0,
+						"curve": [ 0.237, 0.66, 0.75, 1 ]
+					},
+					{ "time": 0.2333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 1.8333, "x": 1, "y": 1 },
+					{ "time": 2.1667, "x": 1, "y": 0 }
+				]
+			},
+			"Start": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 544.63,
+						"y": 0,
+						"curve": [ 0.221, 0.59, 0.75, 1 ]
+					},
+					{ "time": 0.2333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 1.8333, "x": 1, "y": 1 },
+					{ "time": 2.1667, "x": 1, "y": 0 }
+				]
+			},
+			"Light": {
+				"scale": [
+					{ "time": 0, "x": 0.6, "y": 0.4 },
+					{ "time": 0.3, "x": 1, "y": 1 },
+					{ "time": 1.3333, "x": 1.5, "y": 0.7 }
+				]
+			}
+		}
+	}
+}
+}

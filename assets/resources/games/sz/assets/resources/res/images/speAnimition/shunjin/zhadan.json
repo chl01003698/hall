@@ -1,0 +1,535 @@
+{
+"skeleton": { "hash": "p6vFl663syn3Lg33ZL5CpKA9NIc", "spine": "3.6.52", "width": 1280, "height": 720, "images": "D:\\赢三张\\顺金\\images" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "shunjin_00001", "bone": "root", "attachment": "shunjin_00001" },
+	{ "name": "shunjin_00002", "bone": "root", "attachment": "shunjin_00002" },
+	{ "name": "shunjin_00003", "bone": "root", "attachment": "shunjin_00003" },
+	{ "name": "shunjin_00004", "bone": "root", "attachment": "shunjin_00004" },
+	{ "name": "shunjin_00005", "bone": "root", "attachment": "shunjin_00005" },
+	{ "name": "shunjin_00006", "bone": "root", "attachment": "shunjin_00006" },
+	{ "name": "shunjin_00007", "bone": "root", "attachment": "shunjin_00007" },
+	{ "name": "shunjin_00008", "bone": "root", "attachment": "shunjin_00008" },
+	{ "name": "shunjin_00009", "bone": "root", "attachment": "shunjin_00009" },
+	{ "name": "shunjin_00010", "bone": "root", "attachment": "shunjin_00010" },
+	{ "name": "shunjin_00011", "bone": "root", "attachment": "shunjin_00011" },
+	{ "name": "shunjin_00012", "bone": "root", "attachment": "shunjin_00012" },
+	{ "name": "shunjin_00013", "bone": "root", "attachment": "shunjin_00013" },
+	{ "name": "shunjin_00014", "bone": "root", "attachment": "shunjin_00014" },
+	{ "name": "shunjin_00015", "bone": "root", "attachment": "shunjin_00015" },
+	{ "name": "shunjin_00016", "bone": "root", "attachment": "shunjin_00016" },
+	{ "name": "shunjin_00017", "bone": "root", "attachment": "shunjin_00017" },
+	{ "name": "shunjin_00018", "bone": "root", "attachment": "shunjin_00018" },
+	{ "name": "shunjin_00019", "bone": "root", "attachment": "shunjin_00019" },
+	{ "name": "shunjin_00020", "bone": "root", "attachment": "shunjin_00020" },
+	{ "name": "shunjin_00021", "bone": "root", "attachment": "shunjin_00021" },
+	{ "name": "shunjin_00022", "bone": "root", "attachment": "shunjin_00022" },
+	{ "name": "shunjin_00023", "bone": "root", "attachment": "shunjin_00023" },
+	{ "name": "shunjin_00024", "bone": "root", "attachment": "shunjin_00024" },
+	{ "name": "shunjin_00025", "bone": "root", "attachment": "shunjin_00025" },
+	{ "name": "shunjin_00026", "bone": "root", "attachment": "shunjin_00026" },
+	{ "name": "shunjin_00027", "bone": "root", "attachment": "shunjin_00027" },
+	{ "name": "shunjin_00028", "bone": "root", "attachment": "shunjin_00028" },
+	{ "name": "shunjin_00029", "bone": "root", "attachment": "shunjin_00029" },
+	{ "name": "shunjin_00030", "bone": "root", "attachment": "shunjin_00030" },
+	{ "name": "shunjin_00031", "bone": "root", "attachment": "shunjin_00031" },
+	{ "name": "shunjin_00032", "bone": "root", "attachment": "shunjin_00032" },
+	{ "name": "shunjin_00033", "bone": "root", "attachment": "shunjin_00033" },
+	{ "name": "shunjin_00034", "bone": "root", "attachment": "shunjin_00034" },
+	{ "name": "shunjin_00035", "bone": "root", "attachment": "shunjin_00035" },
+	{ "name": "shunjin_00036", "bone": "root", "attachment": "shunjin_00036" },
+	{ "name": "shunjin_00037", "bone": "root", "attachment": "shunjin_00037" },
+	{ "name": "shunjin_00038", "bone": "root", "attachment": "shunjin_00038" },
+	{ "name": "shunjin_00039", "bone": "root", "attachment": "shunjin_00039" },
+	{ "name": "shunjin_00040", "bone": "root", "attachment": "shunjin_00040" },
+	{ "name": "shunjin_00041", "bone": "root", "attachment": "shunjin_00041" },
+	{ "name": "shunjin_00042", "bone": "root", "attachment": "shunjin_00042" },
+	{ "name": "shunjin_00043", "bone": "root", "attachment": "shunjin_00043" },
+	{ "name": "shunjin_00044", "bone": "root", "attachment": "shunjin_00044" },
+	{ "name": "shunjin_00045", "bone": "root", "attachment": "shunjin_00045" },
+	{ "name": "shunjin_00046", "bone": "root", "attachment": "shunjin_00046" },
+	{ "name": "shunjin_00047", "bone": "root", "attachment": "shunjin_00047" }
+],
+"skins": {
+	"default": {
+		"shunjin_00001": {
+			"shunjin_00001": { "x": -237.62, "y": 125.13, "width": 690, "height": 132 }
+		},
+		"shunjin_00002": {
+			"shunjin_00002": { "x": -224.62, "y": 111.63, "width": 716, "height": 159 }
+		},
+		"shunjin_00003": {
+			"shunjin_00003": { "x": -224.62, "y": 125.13, "width": 716, "height": 210 }
+		},
+		"shunjin_00004": {
+			"shunjin_00004": { "x": -182.12, "y": 120.13, "width": 617, "height": 226 }
+		},
+		"shunjin_00005": {
+			"shunjin_00005": { "x": -175.62, "y": 128.13, "width": 668, "height": 230 }
+		},
+		"shunjin_00006": {
+			"shunjin_00006": { "x": -179.12, "y": 138.13, "width": 701, "height": 236 }
+		},
+		"shunjin_00007": {
+			"shunjin_00007": { "x": -185.62, "y": 138.13, "width": 740, "height": 236 }
+		},
+		"shunjin_00008": {
+			"shunjin_00008": { "x": -188.62, "y": 144.63, "width": 770, "height": 249 }
+		},
+		"shunjin_00009": {
+			"shunjin_00009": { "x": -185.62, "y": 148.13, "width": 792, "height": 242 }
+		},
+		"shunjin_00010": {
+			"shunjin_00010": { "x": -133.12, "y": 148.13, "width": 701, "height": 242 }
+		},
+		"shunjin_00011": {
+			"shunjin_00011": { "x": -168.12, "y": 138.13, "width": 655, "height": 262 }
+		},
+		"shunjin_00012": {
+			"shunjin_00012": { "x": -24.12, "y": 124.13, "width": 367, "height": 260 }
+		},
+		"shunjin_00013": {
+			"shunjin_00013": { "x": -24.12, "y": 99.13, "width": 367, "height": 236 }
+		},
+		"shunjin_00014": {
+			"shunjin_00014": { "x": -43.12, "y": 92.63, "width": 405, "height": 249 }
+		},
+		"shunjin_00015": {
+			"shunjin_00015": { "x": -43.62, "y": 90.13, "width": 456, "height": 254 }
+		},
+		"shunjin_00016": {
+			"shunjin_00016": { "x": -37.12, "y": 124.63, "width": 469, "height": 185 }
+		},
+		"shunjin_00017": {
+			"shunjin_00017": { "x": -37.62, "y": 124.63, "width": 468, "height": 185 }
+		},
+		"shunjin_00018": {
+			"shunjin_00018": { "x": -53.12, "y": 124.63, "width": 437, "height": 185 }
+		},
+		"shunjin_00019": {
+			"shunjin_00019": { "x": -53.12, "y": 124.63, "width": 437, "height": 185 }
+		},
+		"shunjin_00020": {
+			"shunjin_00020": { "x": -53.12, "y": 124.63, "width": 437, "height": 185 }
+		},
+		"shunjin_00021": {
+			"shunjin_00021": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00022": {
+			"shunjin_00022": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00023": {
+			"shunjin_00023": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00024": {
+			"shunjin_00024": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00025": {
+			"shunjin_00025": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00026": {
+			"shunjin_00026": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00027": {
+			"shunjin_00027": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00028": {
+			"shunjin_00028": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00029": {
+			"shunjin_00029": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00030": {
+			"shunjin_00030": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00031": {
+			"shunjin_00031": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00032": {
+			"shunjin_00032": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00033": {
+			"shunjin_00033": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00034": {
+			"shunjin_00034": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00035": {
+			"shunjin_00035": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00036": {
+			"shunjin_00036": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00037": {
+			"shunjin_00037": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00038": {
+			"shunjin_00038": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00039": {
+			"shunjin_00039": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00040": {
+			"shunjin_00040": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00041": {
+			"shunjin_00041": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00042": {
+			"shunjin_00042": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00043": {
+			"shunjin_00043": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00044": {
+			"shunjin_00044": { "x": -56.12, "y": 124.63, "width": 431, "height": 185 }
+		},
+		"shunjin_00045": {
+			"shunjin_00045": { "x": -62.12, "y": 124.63, "width": 443, "height": 185 }
+		},
+		"shunjin_00046": {
+			"shunjin_00046": { "x": -62.12, "y": 124.63, "width": 443, "height": 185 }
+		},
+		"shunjin_00047": {
+			"shunjin_00047": { "x": -62.12, "y": 124.63, "width": 443, "height": 185 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"shunjin_00001": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0667, "name": "shunjin_00001" },
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"shunjin_00002": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "shunjin_00002" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"shunjin_00003": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "shunjin_00003" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"shunjin_00004": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2667, "name": "shunjin_00004" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"shunjin_00005": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "shunjin_00005" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"shunjin_00006": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "shunjin_00006" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"shunjin_00007": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4667, "name": "shunjin_00007" },
+					{ "time": 0.5333, "name": null }
+				]
+			},
+			"shunjin_00008": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5333, "name": "shunjin_00008" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"shunjin_00009": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6, "name": "shunjin_00009" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"shunjin_00010": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6667, "name": "shunjin_00010" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"shunjin_00011": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7333, "name": "shunjin_00011" },
+					{ "time": 0.8, "name": null }
+				]
+			},
+			"shunjin_00012": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8, "name": "shunjin_00012" },
+					{ "time": 0.8667, "name": null }
+				]
+			},
+			"shunjin_00013": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8667, "name": "shunjin_00013" },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"shunjin_00014": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.9333, "name": "shunjin_00014" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"shunjin_00015": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "shunjin_00015" },
+					{ "time": 1.0667, "name": null }
+				]
+			},
+			"shunjin_00016": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.0667, "name": "shunjin_00016" },
+					{ "time": 1.1333, "name": null }
+				]
+			},
+			"shunjin_00017": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.1333, "name": "shunjin_00017" },
+					{ "time": 1.2, "name": null }
+				]
+			},
+			"shunjin_00018": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.2, "name": "shunjin_00018" },
+					{ "time": 1.2667, "name": null }
+				]
+			},
+			"shunjin_00019": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.2667, "name": "shunjin_00019" },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"shunjin_00020": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.3333, "name": "shunjin_00020" },
+					{ "time": 1.4, "name": null }
+				]
+			},
+			"shunjin_00021": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.4, "name": "shunjin_00021" },
+					{ "time": 1.4667, "name": null }
+				]
+			},
+			"shunjin_00022": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.4667, "name": "shunjin_00022" },
+					{ "time": 1.5333, "name": null }
+				]
+			},
+			"shunjin_00023": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.5333, "name": "shunjin_00023" },
+					{ "time": 1.6, "name": null }
+				]
+			},
+			"shunjin_00024": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.6, "name": "shunjin_00024" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"shunjin_00025": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.6667, "name": "shunjin_00025" },
+					{ "time": 1.7333, "name": null }
+				]
+			},
+			"shunjin_00026": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.7333, "name": "shunjin_00026" },
+					{ "time": 1.8, "name": null }
+				]
+			},
+			"shunjin_00027": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.8, "name": "shunjin_00027" },
+					{ "time": 1.8667, "name": null }
+				]
+			},
+			"shunjin_00028": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.8667, "name": "shunjin_00028" },
+					{ "time": 1.9333, "name": null }
+				]
+			},
+			"shunjin_00029": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.9333, "name": "shunjin_00029" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"shunjin_00030": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2, "name": "shunjin_00030" },
+					{ "time": 2.0667, "name": null }
+				]
+			},
+			"shunjin_00031": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.0667, "name": "shunjin_00031" },
+					{ "time": 2.1333, "name": null }
+				]
+			},
+			"shunjin_00032": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.1333, "name": "shunjin_00032" },
+					{ "time": 2.2, "name": null }
+				]
+			},
+			"shunjin_00033": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.2, "name": "shunjin_00033" },
+					{ "time": 2.2667, "name": null }
+				]
+			},
+			"shunjin_00034": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.2667, "name": "shunjin_00034" },
+					{ "time": 2.3333, "name": null }
+				]
+			},
+			"shunjin_00035": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.3333, "name": "shunjin_00035" },
+					{ "time": 2.4, "name": null }
+				]
+			},
+			"shunjin_00036": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.4, "name": "shunjin_00036" },
+					{ "time": 2.4667, "name": null }
+				]
+			},
+			"shunjin_00037": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.4667, "name": "shunjin_00037" },
+					{ "time": 2.5333, "name": null }
+				]
+			},
+			"shunjin_00038": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.5333, "name": "shunjin_00038" },
+					{ "time": 2.6, "name": null }
+				]
+			},
+			"shunjin_00039": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.6, "name": "shunjin_00039" },
+					{ "time": 2.6667, "name": null }
+				]
+			},
+			"shunjin_00040": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.6667, "name": "shunjin_00040" },
+					{ "time": 2.7333, "name": null }
+				]
+			},
+			"shunjin_00041": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.7333, "name": "shunjin_00041" },
+					{ "time": 2.8, "name": null }
+				]
+			},
+			"shunjin_00042": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.8, "name": "shunjin_00042" },
+					{ "time": 2.8667, "name": null }
+				]
+			},
+			"shunjin_00043": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.8667, "name": "shunjin_00043" },
+					{ "time": 2.9333, "name": null }
+				]
+			},
+			"shunjin_00044": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.9333, "name": "shunjin_00044" },
+					{ "time": 3, "name": null }
+				]
+			},
+			"shunjin_00045": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 3, "name": "shunjin_00045" },
+					{ "time": 3.0667, "name": null }
+				]
+			},
+			"shunjin_00046": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 3.0667, "name": "shunjin_00046" },
+					{ "time": 3.1333, "name": null }
+				]
+			},
+			"shunjin_00047": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 3.1333, "name": "shunjin_00047" },
+					{ "time": 3.2, "name": null }
+				]
+			}
+		}
+	}
+}
+}

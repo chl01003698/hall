@@ -1,0 +1,365 @@
+
+zhadan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunjin_00002
+  rotate: false
+  xy: 253, 2
+  size: 716, 159
+  orig: 716, 159
+  offset: 0, 0
+  index: -1
+shunjin_00004
+  rotate: true
+  xy: 796, 401
+  size: 617, 226
+  orig: 617, 226
+  offset: 0, 0
+  index: -1
+shunjin_00007
+  rotate: false
+  xy: 253, 163
+  size: 740, 236
+  orig: 740, 236
+  offset: 0, 0
+  index: -1
+shunjin_00008
+  rotate: true
+  xy: 2, 4
+  size: 770, 249
+  orig: 770, 249
+  offset: 0, 0
+  index: -1
+shunjin_00009
+  rotate: false
+  xy: 2, 776
+  size: 792, 242
+  orig: 792, 242
+  offset: 0, 0
+  index: -1
+shunjin_00012
+  rotate: true
+  xy: 253, 407
+  size: 367, 260
+  orig: 367, 260
+  offset: 0, 0
+  index: -1
+shunjin_00013
+  rotate: true
+  xy: 515, 407
+  size: 367, 236
+  orig: 367, 236
+  offset: 0, 0
+  index: -1
+
+zhadan2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunjin_00005
+  rotate: false
+  xy: 2, 2
+  size: 668, 230
+  orig: 668, 230
+  offset: 0, 0
+  index: -1
+shunjin_00006
+  rotate: false
+  xy: 2, 498
+  size: 701, 236
+  orig: 701, 236
+  offset: 0, 0
+  index: -1
+shunjin_00010
+  rotate: false
+  xy: 2, 736
+  size: 701, 242
+  orig: 701, 242
+  offset: 0, 0
+  index: -1
+shunjin_00011
+  rotate: false
+  xy: 2, 234
+  size: 655, 262
+  orig: 655, 262
+  offset: 0, 0
+  index: -1
+shunjin_00014
+  rotate: true
+  xy: 705, 115
+  size: 405, 249
+  orig: 405, 249
+  offset: 0, 0
+  index: -1
+shunjin_00015
+  rotate: true
+  xy: 705, 522
+  size: 456, 254
+  orig: 456, 254
+  offset: 0, 0
+  index: -1
+
+zhadan3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunjin_00001
+  rotate: false
+  xy: 2, 634
+  size: 690, 132
+  orig: 690, 132
+  offset: 0, 0
+  index: -1
+shunjin_00003
+  rotate: false
+  xy: 2, 768
+  size: 716, 210
+  orig: 716, 210
+  offset: 0, 0
+  index: -1
+shunjin_00016
+  rotate: true
+  xy: 720, 509
+  size: 469, 185
+  orig: 469, 185
+  offset: 0, 0
+  index: -1
+shunjin_00017
+  rotate: true
+  xy: 2, 39
+  size: 468, 185
+  orig: 468, 185
+  offset: 0, 0
+  index: -1
+shunjin_00018
+  rotate: false
+  xy: 563, 260
+  size: 437, 185
+  orig: 437, 185
+  offset: 0, 0
+  index: -1
+shunjin_00019
+  rotate: false
+  xy: 563, 73
+  size: 437, 185
+  orig: 437, 185
+  offset: 0, 0
+  index: -1
+shunjin_00045
+  rotate: false
+  xy: 189, 447
+  size: 443, 185
+  orig: 443, 185
+  offset: 0, 0
+  index: -1
+shunjin_00046
+  rotate: true
+  xy: 189, 2
+  size: 443, 185
+  orig: 443, 185
+  offset: 0, 0
+  index: -1
+shunjin_00047
+  rotate: true
+  xy: 376, 2
+  size: 443, 185
+  orig: 443, 185
+  offset: 0, 0
+  index: -1
+
+zhadan4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunjin_00020
+  rotate: false
+  xy: 2, 809
+  size: 437, 185
+  orig: 437, 185
+  offset: 0, 0
+  index: -1
+shunjin_00021
+  rotate: false
+  xy: 441, 809
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00022
+  rotate: true
+  xy: 2, 376
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00023
+  rotate: false
+  xy: 2, 189
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00024
+  rotate: false
+  xy: 2, 2
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00025
+  rotate: true
+  xy: 189, 376
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00026
+  rotate: true
+  xy: 376, 376
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00027
+  rotate: false
+  xy: 435, 189
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00028
+  rotate: false
+  xy: 435, 2
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00029
+  rotate: true
+  xy: 563, 376
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00030
+  rotate: true
+  xy: 750, 376
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+
+zhadan5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunjin_00031
+  rotate: false
+  xy: 2, 809
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00032
+  rotate: false
+  xy: 435, 809
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00033
+  rotate: true
+  xy: 2, 376
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00034
+  rotate: false
+  xy: 2, 189
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00035
+  rotate: false
+  xy: 2, 2
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00036
+  rotate: true
+  xy: 189, 376
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00037
+  rotate: true
+  xy: 376, 376
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00038
+  rotate: false
+  xy: 435, 189
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00039
+  rotate: false
+  xy: 435, 2
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00040
+  rotate: true
+  xy: 563, 376
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00041
+  rotate: true
+  xy: 750, 376
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+
+zhadan6.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunjin_00042
+  rotate: false
+  xy: 2, 189
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00043
+  rotate: false
+  xy: 2, 2
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+shunjin_00044
+  rotate: false
+  xy: 435, 189
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1

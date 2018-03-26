@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "934e7072-8867-4da9-bf74-1831c3ab06d5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "paizuo_heguan2": {
+      "ver": "1.0.3",
+      "uuid": "e927f108-5696-4224-99cc-6a717f287e32",
+      "rawTextureUuid": "934e7072-8867-4da9-bf74-1831c3ab06d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 161,
+      "height": 188,
+      "rawWidth": 162,
+      "rawHeight": 188,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

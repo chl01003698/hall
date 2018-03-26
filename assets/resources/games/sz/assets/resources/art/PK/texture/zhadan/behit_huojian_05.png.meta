@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "dc5d45ce-3ed4-4e3d-8ba4-abf3a6bd9df0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "behit_huojian_05": {
+      "ver": "1.0.3",
+      "uuid": "5bce1c2e-067e-4dc3-bd37-7904e0dccbe5",
+      "rawTextureUuid": "dc5d45ce-3ed4-4e3d-8ba4-abf3a6bd9df0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 141,
+      "height": 107,
+      "rawWidth": 143,
+      "rawHeight": 109,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

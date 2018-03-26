@@ -1,0 +1,364 @@
+{
+"skeleton": { "hash": "lGn7GuOf8w/2JW0iXsb6fPxWMkc", "spine": "3.6.51", "width": 1334, "height": 941.47, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "ggbeij", "parent": "root", "y": 173.84 },
+	{ "name": "light", "parent": "root", "x": -12.7, "y": 167.89, "scaleX": 2.5, "scaleY": 2.5 },
+	{ "name": "shunzi_00001", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00002", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00003", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00004", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00005", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00006", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00007", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00008", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00009", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00010", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00011", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00012", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00013", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzi_00014", "parent": "root", "x": -28.11, "y": 180.59 },
+	{ "name": "shunzizishu", "parent": "root", "x": 43.49, "y": 180.59 }
+],
+"slots": [
+	{ "name": "light", "bone": "light", "color": "f7f27561", "attachment": "light" },
+	{ "name": "shunzi_00001", "bone": "shunzi_00001", "attachment": "shunzi_00001" },
+	{ "name": "shunzi_00003", "bone": "shunzi_00003", "attachment": "shunzi_00003" },
+	{ "name": "shunzi_00004", "bone": "shunzi_00004", "attachment": "shunzi_00004" },
+	{ "name": "shunzi_00005", "bone": "shunzi_00005", "attachment": "shunzi_00005" },
+	{ "name": "shunzi_00006", "bone": "shunzi_00006", "attachment": "shunzi_00006" },
+	{ "name": "shunzi_00007", "bone": "shunzi_00007", "attachment": "shunzi_00007" },
+	{ "name": "shunzi_00008", "bone": "shunzi_00008", "attachment": "shunzi_00008" },
+	{ "name": "shunzi_00009", "bone": "shunzi_00009", "attachment": "shunzi_00009" },
+	{ "name": "shunzi_00010", "bone": "shunzi_00010", "attachment": "shunzi_00010" },
+	{ "name": "shunzi_00011", "bone": "shunzi_00011", "attachment": "shunzi_00011" },
+	{ "name": "shunzi_00012", "bone": "shunzi_00012", "attachment": "shunzi_00012" },
+	{ "name": "shunzi_00013", "bone": "shunzi_00013", "attachment": "shunzi_00013" },
+	{ "name": "shunzi_00014", "bone": "shunzi_00014", "attachment": "shunzi_00014" },
+	{ "name": "shunzi_00002", "bone": "shunzi_00002", "attachment": "shunzi_00002" },
+	{ "name": "ggbeij", "bone": "ggbeij", "attachment": "ggbeij" },
+	{ "name": "shunzizishu", "bone": "shunzizishu", "attachment": "shunzizishu" },
+	{ "name": "trial", "bone": "shunzizishu", "color": "ffffffa4", "attachment": "trial", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"ggbeij": {
+			"ggbeij": { "x": -5.14, "y": -6.07, "width": 428, "height": 149 }
+		},
+		"light": {
+			"light": { "x": 9.5, "y": -6.07, "width": 326, "height": 331 }
+		},
+		"shunzi_00001": {
+			"shunzi_00001": { "x": 231.5, "y": 12.93, "width": 138, "height": 139 }
+		},
+		"shunzi_00002": {
+			"shunzi_00002": { "x": 127.5, "y": 1.93, "width": 210, "height": 153 }
+		},
+		"shunzi_00003": {
+			"shunzi_00003": { "x": 51.5, "y": -18.07, "width": 266, "height": 153 }
+		},
+		"shunzi_00004": {
+			"shunzi_00004": { "x": 18, "y": -16.57, "width": 295, "height": 150 }
+		},
+		"shunzi_00005": {
+			"shunzi_00005": { "y": -16.07, "width": 315, "height": 151 }
+		},
+		"shunzi_00006": {
+			"shunzi_00006": { "x": -2.5, "y": -13.57, "width": 370, "height": 158 }
+		},
+		"shunzi_00007": {
+			"shunzi_00007": { "x": -27.5, "y": -12.57, "width": 370, "height": 162 }
+		},
+		"shunzi_00008": {
+			"shunzi_00008": { "x": -52, "y": -7.57, "width": 367, "height": 154 }
+		},
+		"shunzi_00009": {
+			"shunzi_00009": { "x": -50, "y": -11.07, "width": 411, "height": 145 }
+		},
+		"shunzi_00010": {
+			"shunzi_00010": { "x": -12, "y": -30.07, "width": 321, "height": 127 }
+		},
+		"shunzi_00011": {
+			"shunzi_00011": { "x": -59, "y": -4.07, "width": 339, "height": 123 }
+		},
+		"shunzi_00012": {
+			"shunzi_00012": { "x": -12, "y": -37.57, "width": 249, "height": 98 }
+		},
+		"shunzi_00013": {
+			"shunzi_00013": { "x": -119, "y": 10.93, "width": 323, "height": 59 }
+		},
+		"shunzi_00014": {
+			"shunzi_00014": { "x": -73, "y": -57.07, "width": 17, "height": 17 }
+		},
+		"shunzizishu": {
+			"shunzizishu": { "x": -75.35, "y": -5.57, "width": 173, "height": 92 }
+		},
+		"trial": {
+			"trial": { "x": -312.84, "y": -5.07, "scaleX": 1.5, "width": 500, "height": 167 }
+		}
+	}
+},
+"animations": {
+	"WinCardAni": {
+		"slots": {
+			"ggbeij": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light": {
+				"color": [
+					{ "time": 0, "color": "f7f27500" },
+					{ "time": 0.3333, "color": "f8f49a46" }
+				],
+				"attachment": [
+					{ "time": 5.4, "name": null }
+				]
+			},
+			"shunzi_00001": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00002": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00003": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00004": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00005": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00006": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00007": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00008": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00009": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00010": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00011": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00012": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00013": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzi_00014": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shunzizishu": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"trial": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"light": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.3333, "angle": -90 },
+					{ "time": 2.6667, "angle": 180 },
+					{ "time": 4, "angle": 90 },
+					{ "time": 5.3333, "angle": 0 }
+				]
+			}
+		}
+	},
+	"shunziAni": {
+		"slots": {
+			"ggbeij": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" }
+				]
+			},
+			"light": {
+				"color": [
+					{ "time": 0, "color": "f7f27500" },
+					{ "time": 0.3333, "color": "f8f49a46" }
+				],
+				"attachment": [
+					{ "time": 5.4, "name": null }
+				]
+			},
+			"shunzi_00001": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "shunzi_00001" },
+					{ "time": 0.1667, "name": null }
+				]
+			},
+			"shunzi_00002": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "shunzi_00002" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"shunzi_00003": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "shunzi_00003" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"shunzi_00004": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": "shunzi_00004" },
+					{ "time": 0.3667, "name": null }
+				]
+			},
+			"shunzi_00005": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3667, "name": "shunzi_00005" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"shunzi_00006": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4333, "name": "shunzi_00006" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"shunzi_00007": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "shunzi_00007" },
+					{ "time": 0.5667, "name": null }
+				]
+			},
+			"shunzi_00008": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5667, "name": "shunzi_00008" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"shunzi_00009": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6333, "name": "shunzi_00009" },
+					{ "time": 0.7, "name": null }
+				]
+			},
+			"shunzi_00010": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7, "name": "shunzi_00010" },
+					{ "time": 0.7667, "name": null }
+				]
+			},
+			"shunzi_00011": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7667, "name": "shunzi_00011" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"shunzi_00012": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "shunzi_00012" },
+					{ "time": 0.9, "name": null }
+				]
+			},
+			"shunzi_00013": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.9, "name": "shunzi_00013" },
+					{ "time": 0.9667, "name": null }
+				]
+			},
+			"shunzi_00014": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.9667, "name": "shunzi_00014" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"shunzizishu": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2333, "color": "ffffffff" }
+				]
+			},
+			"trial": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2333, "color": "ffffffba" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"shunzizishu": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -381.97,
+						"y": 0,
+						"curve": [ 0.227, 0.75, 0.75, 1 ]
+					},
+					{ "time": 0.2333, "x": 37.14, "y": 0 }
+				]
+			},
+			"light": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.3333, "angle": -90 },
+					{ "time": 2.6667, "angle": 180 },
+					{ "time": 4, "angle": 90 },
+					{ "time": 5.3333, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

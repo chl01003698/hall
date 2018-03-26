@@ -1,0 +1,118 @@
+
+huopin.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire1
+  rotate: false
+  xy: 521, 108
+  size: 258, 28
+  orig: 258, 28
+  offset: 0, 0
+  index: -1
+fire10
+  rotate: false
+  xy: 2, 97
+  size: 258, 30
+  orig: 258, 30
+  offset: 0, 0
+  index: -1
+fire11
+  rotate: false
+  xy: 262, 106
+  size: 257, 30
+  orig: 257, 30
+  offset: 0, 0
+  index: -1
+fire12
+  rotate: false
+  xy: 262, 138
+  size: 258, 30
+  orig: 258, 30
+  offset: 0, 0
+  index: -1
+fire13
+  rotate: false
+  xy: 522, 138
+  size: 257, 30
+  orig: 257, 30
+  offset: 0, 0
+  index: -1
+fire14
+  rotate: false
+  xy: 522, 170
+  size: 258, 30
+  orig: 258, 30
+  offset: 0, 0
+  index: -1
+fire15
+  rotate: false
+  xy: 2, 33
+  size: 257, 30
+  orig: 257, 30
+  offset: 0, 0
+  index: -1
+fire16
+  rotate: false
+  xy: 2, 161
+  size: 258, 34
+  orig: 258, 34
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 2, 197
+  size: 258, 35
+  orig: 258, 35
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: false
+  xy: 2, 65
+  size: 257, 30
+  orig: 257, 30
+  offset: 0, 0
+  index: -1
+fire4
+  rotate: false
+  xy: 262, 202
+  size: 258, 30
+  orig: 258, 30
+  offset: 0, 0
+  index: -1
+fire5
+  rotate: false
+  xy: 2, 129
+  size: 258, 30
+  orig: 258, 30
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: false
+  xy: 262, 170
+  size: 258, 30
+  orig: 258, 30
+  offset: 0, 0
+  index: -1
+fire7
+  rotate: false
+  xy: 2, 2
+  size: 257, 29
+  orig: 257, 29
+  offset: 0, 0
+  index: -1
+fire8
+  rotate: false
+  xy: 262, 75
+  size: 257, 29
+  orig: 257, 29
+  offset: 0, 0
+  index: -1
+fire9
+  rotate: false
+  xy: 522, 202
+  size: 258, 30
+  orig: 258, 30
+  offset: 0, 0
+  index: -1

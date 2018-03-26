@@ -1,0 +1,76 @@
+{
+"skeleton": { "hash": "m6dD/ZdFx/7a4vfWv/bdvAfSapI", "spine": "3.6.50", "width": 195, "height": 195, "images": "D:\\斗地主-本地\\警报灯\\images" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "glow", "parent": "root", "x": -309.35, "y": 56.09 },
+	{ "name": "light", "parent": "root", "x": -303.96, "y": 90.04 },
+	{ "name": "light2", "parent": "root", "x": -303.96, "y": 88.5 }
+],
+"slots": [
+	{ "name": "light", "bone": "light", "attachment": "light" },
+	{ "name": "light2", "bone": "light2", "attachment": "light", "blend": "screen" },
+	{ "name": "glow", "bone": "glow", "attachment": "glow" }
+],
+"skins": {
+	"default": {
+		"glow": {
+			"glow": { "x": 6.92, "y": 42.88, "width": 195, "height": 195 }
+		},
+		"light": {
+			"light": { "x": 5.49, "y": 4.04, "width": 76, "height": 80 }
+		},
+		"light2": {
+			"light": { "x": 5.49, "y": 6.35, "width": 76, "height": 80 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"glow": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"light2": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.7, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"light2": {
+				"scale": [
+					{
+						"time": 0.0667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.198, 0.34, 0.75, 1 ]
+					},
+					{ "time": 0.7, "x": 1.5, "y": 1.5 }
+				]
+			},
+			"light": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.9,
+						"y": 0.9,
+						"curve": [ 0.185, 0.46, 0.75, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 1.1,
+						"y": 1.1,
+						"curve": [ 0.185, 0.46, 0.75, 1 ]
+					},
+					{ "time": 0.7, "x": 0.9, "y": 0.9 }
+				]
+			}
+		}
+	}
+}
+}

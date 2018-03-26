@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "af6f0268-82d7-4ad0-8ef4-5c2dd4a0442e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Laizi": {
+      "ver": "1.0.3",
+      "uuid": "395ffd28-f099-43d7-b29b-54155f44bfac",
+      "rawTextureUuid": "af6f0268-82d7-4ad0-8ef4-5c2dd4a0442e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -20,
+      "offsetY": 17,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 978,
+      "height": 984,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

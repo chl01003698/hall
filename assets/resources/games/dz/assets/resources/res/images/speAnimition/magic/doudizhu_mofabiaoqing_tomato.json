@@ -1,0 +1,55 @@
+{
+"skeleton": { "hash": "7mQ2GaBM82fe8v2TG0WSuWLh5qo", "spine": "3.6.50", "width": 84, "height": 88, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "tomato", "parent": "root" },
+	{ "name": "tomato2", "parent": "root" }
+],
+"slots": [
+	{ "name": "tomato", "bone": "tomato", "attachment": "tomato" },
+	{ "name": "tomato2", "bone": "tomato2" }
+],
+"skins": {
+	"default": {
+		"tomato": {
+			"tomato": { "x": 1.48, "y": -2.73, "width": 84, "height": 88 }
+		},
+		"tomato2": {
+			"tomato2": { "x": -1.14, "y": -11.1, "width": 130, "height": 104 }
+		}
+	}
+},
+"animations": {
+	"Left1": {
+		"slots": {
+			"tomato": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"tomato2": {
+				"color": [
+					{ "time": 1.1667, "color": "ffffffff" },
+					{ "time": 2.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "tomato2" }
+				]
+			}
+		}
+	},
+	"Left2": {
+		"bones": {
+			"tomato": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": -90 },
+					{ "time": 0.3333, "angle": 180 },
+					{ "time": 0.5, "angle": 90 },
+					{ "time": 0.6667, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

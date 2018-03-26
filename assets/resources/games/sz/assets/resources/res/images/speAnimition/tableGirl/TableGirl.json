@@ -1,0 +1,143 @@
+{
+"skeleton": { "hash": "ZHfZGkUAauGfidB+nYUK2ect+r8", "spine": "3.6.52", "width": 1280, "height": 720, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "paizuo_heguan1", "parent": "root", "x": 227.8, "y": 71.38 },
+	{ "name": "paizuo_heguan2", "parent": "root", "x": 292.6, "y": -5.42 },
+	{ "name": "youyanpi", "parent": "root", "x": 223.18, "y": 117.93 },
+	{ "name": "youyanpi02", "parent": "root", "x": 223.3, "y": 117.71 },
+	{ "name": "zuoyanpi", "parent": "root", "x": 246.24, "y": 117.73 },
+	{ "name": "zuoyanpin02", "parent": "root", "x": 246.42, "y": 118.05 }
+],
+"slots": [
+	{ "name": "paizuo_heguan2", "bone": "paizuo_heguan2", "attachment": "paizuo_heguan2" },
+	{ "name": "paizuo_heguan1", "bone": "paizuo_heguan1", "attachment": "paizuo_heguan1" },
+	{ "name": "zuoyanpi", "bone": "zuoyanpi", "attachment": "zuoyanpi" },
+	{ "name": "zuoyanpin02", "bone": "zuoyanpin02", "attachment": "zuoyanpin02" },
+	{ "name": "youyanpi", "bone": "youyanpi", "attachment": "youyanpi" },
+	{ "name": "youyanpi02", "bone": "youyanpi02", "attachment": "youyanpi02" }
+],
+"skins": {
+	"default": {
+		"paizuo_heguan1": {
+			"paizuo_heguan1": { "width": 148, "height": 190 }
+		},
+		"paizuo_heguan2": {
+			"paizuo_heguan2": { "x": 12.47, "y": 53.92, "width": 42, "height": 114 }
+		},
+		"youyanpi": {
+			"youyanpi": { "scaleX": 0.5, "scaleY": 0.5, "width": 35, "height": 21 }
+		},
+		"youyanpi02": {
+			"youyanpi02": { "scaleX": 0.5, "scaleY": 0.5, "width": 35, "height": 18 }
+		},
+		"zuoyanpi": {
+			"zuoyanpi": { "scaleX": 0.5, "scaleY": 0.5, "width": 26, "height": 20 }
+		},
+		"zuoyanpin02": {
+			"zuoyanpin02": { "scaleX": 0.5, "scaleY": 0.5, "width": 25, "height": 17 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"youyanpi": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.6667, "name": null },
+					{ "time": 2.7333, "name": "youyanpi" },
+					{ "time": 2.8, "name": null },
+					{ "time": 2.9333, "name": null },
+					{ "time": 3, "name": "youyanpi" },
+					{ "time": 3.0667, "name": null },
+					{ "time": 6.9667, "name": null },
+					{ "time": 7.0333, "name": "youyanpi" },
+					{ "time": 7.1, "name": null },
+					{ "time": 10.1, "name": "youyanpi" },
+					{ "time": 10.2333, "name": null }
+				]
+			},
+			"youyanpi02": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.6667, "name": "youyanpi02" },
+					{ "time": 2.7333, "name": null },
+					{ "time": 2.8, "name": "youyanpi02" },
+					{ "time": 2.8667, "name": null },
+					{ "time": 2.9333, "name": "youyanpi02" },
+					{ "time": 3, "name": null },
+					{ "time": 3.0667, "name": "youyanpi02" },
+					{ "time": 3.1333, "name": null },
+					{ "time": 6.9667, "name": "youyanpi02" },
+					{ "time": 7.0333, "name": null },
+					{ "time": 7.1, "name": "youyanpi02" },
+					{ "time": 7.1667, "name": null },
+					{ "time": 10, "name": "youyanpi02" },
+					{ "time": 10.1, "name": null },
+					{ "time": 10.2333, "name": "youyanpi02" },
+					{ "time": 10.4, "name": null }
+				]
+			},
+			"zuoyanpi": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.6667, "name": null },
+					{ "time": 2.7333, "name": "zuoyanpi" },
+					{ "time": 2.8, "name": null },
+					{ "time": 2.9333, "name": null },
+					{ "time": 3, "name": "zuoyanpi" },
+					{ "time": 3.0667, "name": null },
+					{ "time": 6.9667, "name": null },
+					{ "time": 7.0333, "name": "zuoyanpi" },
+					{ "time": 7.1, "name": null }
+				]
+			},
+			"zuoyanpin02": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.6667, "name": "zuoyanpin02" },
+					{ "time": 2.7333, "name": null },
+					{ "time": 2.8, "name": "zuoyanpin02" },
+					{ "time": 2.8667, "name": null },
+					{ "time": 2.9333, "name": "zuoyanpin02" },
+					{ "time": 3, "name": null },
+					{ "time": 3.0667, "name": "zuoyanpin02" },
+					{ "time": 3.1333, "name": null },
+					{ "time": 6.9667, "name": "zuoyanpin02" },
+					{ "time": 7.0333, "name": null },
+					{ "time": 7.1, "name": "zuoyanpin02" },
+					{ "time": 7.1667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"paizuo_heguan2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.5,
+						"angle": -4.97,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 5,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 7.7,
+						"angle": -4.97,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 10.4, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

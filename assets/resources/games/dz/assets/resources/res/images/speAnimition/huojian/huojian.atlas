@@ -1,0 +1,104 @@
+
+huojian.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+behit_jiguanpao_c_01
+  rotate: false
+  xy: 328, 6
+  size: 120, 74
+  orig: 120, 74
+  offset: 0, 0
+  index: -1
+behit_jiguanpao_c_02
+  rotate: false
+  xy: 204, 3
+  size: 122, 77
+  orig: 122, 77
+  offset: 0, 0
+  index: -1
+behit_jiguanpao_c_03
+  rotate: true
+  xy: 897, 203
+  size: 133, 96
+  orig: 133, 96
+  offset: 0, 0
+  index: -1
+behit_jiguanpao_c_04
+  rotate: true
+  xy: 903, 338
+  size: 172, 119
+  orig: 172, 119
+  offset: 0, 0
+  index: -1
+behit_jiguanpao_c_05
+  rotate: false
+  xy: 436, 194
+  size: 184, 129
+  orig: 184, 129
+  offset: 0, 0
+  index: -1
+behit_jiguanpao_c_06
+  rotate: false
+  xy: 238, 169
+  size: 196, 155
+  orig: 196, 155
+  offset: 0, 0
+  index: -1
+behit_jiguanpao_c_07
+  rotate: false
+  xy: 2, 322
+  size: 234, 188
+  orig: 234, 188
+  offset: 0, 0
+  index: -1
+behit_jiguanpao_c_08
+  rotate: false
+  xy: 470, 325
+  size: 208, 185
+  orig: 208, 185
+  offset: 0, 0
+  index: -1
+behit_jiguanpao_c_09
+  rotate: false
+  xy: 2, 132
+  size: 230, 188
+  orig: 230, 188
+  offset: 0, 0
+  index: -1
+behit_jiguanpao_c_10
+  rotate: false
+  xy: 238, 326
+  size: 230, 184
+  orig: 230, 184
+  offset: 0, 0
+  index: -1
+behit_jiguanpao_c_11
+  rotate: false
+  xy: 680, 340
+  size: 221, 170
+  orig: 221, 170
+  offset: 0, 0
+  index: -1
+behit_jiguanpao_c_12
+  rotate: false
+  xy: 680, 196
+  size: 215, 142
+  orig: 215, 142
+  offset: 0, 0
+  index: -1
+huojian
+  rotate: true
+  xy: 2, 2
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+tittle
+  rotate: false
+  xy: 234, 82
+  size: 164, 85
+  orig: 164, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,116 @@
+
+Laizi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Laizi_00000
+  rotate: false
+  xy: 961, 960
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Laizi_00007
+  rotate: false
+  xy: 476, 512
+  size: 483, 476
+  orig: 483, 476
+  offset: 0, 0
+  index: -1
+Laizi_00010
+  rotate: true
+  xy: 2, 2
+  size: 479, 476
+  orig: 479, 476
+  offset: 0, 0
+  index: -1
+Laizi_00011
+  rotate: false
+  xy: 2, 483
+  size: 472, 505
+  orig: 472, 505
+  offset: 0, 0
+  index: -1
+Laizi_00013
+  rotate: true
+  xy: 480, 27
+  size: 483, 463
+  orig: 483, 463
+  offset: 0, 0
+  index: -1
+
+Laizi2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Laizi_00005
+  rotate: true
+  xy: 431, 24
+  size: 439, 427
+  orig: 439, 427
+  offset: 0, 0
+  index: -1
+Laizi_00006
+  rotate: false
+  xy: 2, 465
+  size: 459, 471
+  orig: 459, 471
+  offset: 0, 0
+  index: -1
+Laizi_00009
+  rotate: false
+  xy: 463, 488
+  size: 436, 448
+  orig: 436, 448
+  offset: 0, 0
+  index: -1
+Laizi_00012
+  rotate: true
+  xy: 2, 2
+  size: 461, 427
+  orig: 461, 427
+  offset: 0, 0
+  index: -1
+
+Laizi3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Laizi_00001
+  rotate: false
+  xy: 762, 839
+  size: 245, 163
+  orig: 245, 163
+  offset: 0, 0
+  index: -1
+Laizi_00002
+  rotate: true
+  xy: 2, 2
+  size: 216, 286
+  orig: 216, 286
+  offset: 0, 0
+  index: -1
+Laizi_00003
+  rotate: false
+  xy: 443, 715
+  size: 317, 287
+  orig: 317, 287
+  offset: 0, 0
+  index: -1
+Laizi_00004
+  rotate: false
+  xy: 2, 220
+  size: 398, 375
+  orig: 398, 375
+  offset: 0, 0
+  index: -1
+Laizi_00008
+  rotate: false
+  xy: 2, 597
+  size: 439, 405
+  orig: 439, 405
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+doudizhu_jbd.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 2
+  size: 195, 195
+  orig: 195, 195
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 199, 117
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,128 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "laizi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1.8,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "backSide": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "poker": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1.5
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 0.01
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 1.5
+            },
+            {
+              "frame": 1.25,
+              "value": 0.01
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 1.5
+            },
+            {
+              "frame": 2.0833333333333335,
+              "value": 0.01
+            },
+            {
+              "frame": 2.5,
+              "value": 1
+            },
+            {
+              "frame": 2.5833333333333335,
+              "value": 1.5
+            },
+            {
+              "frame": 3,
+              "value": 0.6
+            }
+          ],
+          "position": [
+            {
+              "frame": 2.5833333333333335,
+              "value": [
+                0,
+                64
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                128,
+                248
+              ]
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 2.5833333333333335,
+              "value": 1.5
+            },
+            {
+              "frame": 3,
+              "value": 0.6
+            }
+          ]
+        }
+      },
+      "poker/backSide": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2.066666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "guangxiao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": false
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "scaleX": []
+    }
+  },
+  "events": []
+}

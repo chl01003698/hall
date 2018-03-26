@@ -1,0 +1,13 @@
+
+zhuomian_icon_dianzan.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+good
+  rotate: false
+  xy: 2, 2
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1

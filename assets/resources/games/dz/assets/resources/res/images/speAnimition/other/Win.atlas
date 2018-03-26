@@ -1,0 +1,48 @@
+
+Win.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddzwl_shengliguang
+  rotate: false
+  xy: 2, 254
+  size: 640, 648
+  orig: 640, 648
+  offset: 0, 0
+  index: -1
+dizhu_shengli_renwu
+  rotate: false
+  xy: 466, 2
+  size: 168, 250
+  orig: 168, 250
+  offset: 0, 0
+  index: -1
+dizhu_shengli_txt
+  rotate: false
+  xy: 644, 754
+  size: 290, 148
+  orig: 290, 148
+  offset: 0, 0
+  index: -1
+nongmin_shengli_renwu
+  rotate: false
+  xy: 644, 403
+  size: 226, 199
+  orig: 226, 199
+  offset: 0, 0
+  index: -1
+nongmin_shengli_txt
+  rotate: false
+  xy: 644, 604
+  size: 285, 148
+  orig: 285, 148
+  offset: 0, 0
+  index: -1
+shengli_zhuangshi_bj
+  rotate: false
+  xy: 2, 16
+  size: 462, 236
+  orig: 462, 236
+  offset: 0, 0
+  index: -1

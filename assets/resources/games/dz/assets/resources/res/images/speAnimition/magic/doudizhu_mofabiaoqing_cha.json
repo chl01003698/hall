@@ -1,0 +1,405 @@
+{
+"skeleton": { "hash": "Z/Wyjn6yyCUfrAkBR0PhkiKLfJU", "spine": "3.6.51", "width": 172.62, "height": 192.17, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "beizi", "parent": "root" },
+	{ "name": "expression_1-2", "parent": "root", "x": -15.42, "y": 39.47 },
+	{ "name": "expression_1-3", "parent": "root", "x": -15.42, "y": 39.47 },
+	{ "name": "expression_1-4", "parent": "root", "x": -15.42, "y": 39.47 },
+	{ "name": "expression_1-5", "parent": "root", "x": -15.42, "y": 39.47 },
+	{ "name": "expression_1-6", "parent": "root", "x": -15.42, "y": 39.47 },
+	{ "name": "expression_1-7", "parent": "root", "x": -15.42, "y": 39.47 },
+	{ "name": "expression_1-8", "parent": "root", "x": -15.42, "y": 39.47 },
+	{ "name": "expression_1-9", "parent": "root", "x": -15.42, "y": 39.47 },
+	{ "name": "hu", "parent": "root", "x": -142.95, "y": 112.7, "scaleX": 1.02 }
+],
+"slots": [
+	{ "name": "beizi", "bone": "beizi", "attachment": "beizi" },
+	{ "name": "hu", "bone": "hu", "attachment": "hu" },
+	{ "name": "expression_1-2", "bone": "expression_1-2", "attachment": "expression_1-2" },
+	{ "name": "expression_1-3", "bone": "expression_1-3", "attachment": "expression_1-3" },
+	{ "name": "expression_1-4", "bone": "expression_1-4", "attachment": "expression_1-4" },
+	{ "name": "expression_1-5", "bone": "expression_1-5", "attachment": "expression_1-5" },
+	{ "name": "expression_1-6", "bone": "expression_1-6", "attachment": "expression_1-6" },
+	{ "name": "expression_1-7", "bone": "expression_1-7", "attachment": "expression_1-7" },
+	{ "name": "expression_1-8", "bone": "expression_1-8", "attachment": "expression_1-8" },
+	{ "name": "expression_1-9", "bone": "expression_1-9", "attachment": "expression_1-9" }
+],
+"skins": {
+	"default": {
+		"beizi": {
+			"beizi": { "width": 87, "height": 77 }
+		},
+		"expression_1-2": {
+			"expression_1-2": { "x": -7.6, "y": 22.39, "width": 42, "height": 67 }
+		},
+		"expression_1-3": {
+			"expression_1-3": { "x": -6.6, "y": 1.39, "width": 60, "height": 83 }
+		},
+		"expression_1-4": {
+			"expression_1-4": { "x": 2.4, "y": -8.11, "width": 94, "height": 82 }
+		},
+		"expression_1-5": {
+			"expression_1-5": { "x": 6.9, "y": -8.61, "width": 69, "height": 67 }
+		},
+		"expression_1-6": {
+			"expression_1-6": { "x": 5.4, "y": -10.61, "width": 70, "height": 71 }
+		},
+		"expression_1-7": {
+			"expression_1-7": { "x": 0.9, "y": -10.61, "width": 79, "height": 71 }
+		},
+		"expression_1-8": {
+			"expression_1-8": { "x": -14.1, "y": 8.39, "width": 81, "height": 73 }
+		},
+		"expression_1-9": {
+			"expression_1-9": { "x": -14.1, "y": 5.89, "width": 81, "height": 78 }
+		},
+		"hu": {
+			"hu": { "x": 64.06, "y": 1.97, "width": 101, "height": 78 }
+		}
+	}
+},
+"animations": {
+	"Left": {
+		"slots": {
+			"beizi": {
+				"color": [
+					{ "time": 0, "color": "fff5f5ff", "curve": "stepped" },
+					{ "time": 1, "color": "fff5f5ff", "curve": "stepped" },
+					{ "time": 2.5, "color": "fff5f5ff" },
+					{ "time": 2.7, "color": "fff5f500" }
+				]
+			},
+			"expression_1-2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.7333, "name": "expression_1-2" },
+					{ "time": 1.8, "name": null }
+				]
+			},
+			"expression_1-3": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.8, "name": "expression_1-3" },
+					{ "time": 1.8667, "name": null }
+				]
+			},
+			"expression_1-4": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.8667, "name": "expression_1-4" },
+					{ "time": 1.9333, "name": null }
+				]
+			},
+			"expression_1-5": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.9333, "name": "expression_1-5" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"expression_1-6": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2, "name": "expression_1-6" },
+					{ "time": 2.0667, "name": null }
+				]
+			},
+			"expression_1-7": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.0667, "name": "expression_1-7" },
+					{ "time": 2.1333, "name": null }
+				]
+			},
+			"expression_1-8": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.1333, "name": "expression_1-8" },
+					{ "time": 2.2, "name": null }
+				]
+			},
+			"expression_1-9": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.6667, "name": null },
+					{ "time": 2.2, "name": "expression_1-9" },
+					{ "time": 2.2667, "name": null }
+				]
+			},
+			"hu": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.5, "color": "ffffffff" },
+					{ "time": 2.7333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"hu": {
+				"rotate": [
+					{ "time": 1, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 1.6667, "angle": 30, "curve": "stepped" },
+					{ "time": 2.2667, "angle": 30, "curve": "stepped" },
+					{ "time": 2.5, "angle": 30 },
+					{ "time": 2.7333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 258.91, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 }
+				]
+			},
+			"beizi": {
+				"translate": [
+					{ "time": 0, "x": -31.74, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 }
+				]
+			},
+			"expression_1-3": {
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 }
+				]
+			},
+			"expression_1-4": {
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 }
+				]
+			},
+			"expression_1-5": {
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 }
+				]
+			},
+			"expression_1-6": {
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 }
+				]
+			},
+			"expression_1-7": {
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 }
+				]
+			},
+			"expression_1-8": {
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 }
+				]
+			},
+			"expression_1-9": {
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 }
+				]
+			},
+			"expression_1-2": {
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 }
+				]
+			}
+		}
+	},
+	"LeftLoop": {
+		"slots": {
+			"beizi": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-6": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-7": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-8": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-9": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 }
+				]
+			}
+		}
+	},
+	"Right": {
+		"slots": {
+			"beizi": {
+				"color": [
+					{ "time": 0, "color": "fff5f500" },
+					{ "time": 1, "color": "fff5f5ff", "curve": "stepped" },
+					{ "time": 2.4667, "color": "fff5f5ff" },
+					{ "time": 2.7333, "color": "fff5f500" }
+				]
+			},
+			"expression_1-2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.7333, "name": "expression_1-2" },
+					{ "time": 1.8, "name": null }
+				]
+			},
+			"expression_1-3": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.8, "name": "expression_1-3" },
+					{ "time": 1.8667, "name": null }
+				]
+			},
+			"expression_1-4": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.8667, "name": "expression_1-4" },
+					{ "time": 1.9333, "name": null }
+				]
+			},
+			"expression_1-5": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.9333, "name": "expression_1-5" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"expression_1-6": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2, "name": "expression_1-6" },
+					{ "time": 2.0667, "name": null }
+				]
+			},
+			"expression_1-7": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.0667, "name": "expression_1-7" },
+					{ "time": 2.1333, "name": null }
+				]
+			},
+			"expression_1-8": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.1333, "name": "expression_1-8" },
+					{ "time": 2.2, "name": null }
+				]
+			},
+			"expression_1-9": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.6667, "name": null },
+					{ "time": 2.2, "name": "expression_1-9" },
+					{ "time": 2.2667, "name": null }
+				]
+			},
+			"hu": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.4667, "color": "ffffffff" },
+					{ "time": 2.6667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"hu": {
+				"rotate": [
+					{ "time": 1, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 1.6667, "angle": -30, "curve": "stepped" },
+					{ "time": 2.4667, "angle": -30 },
+					{ "time": 2.6667, "angle": -11.11 }
+				]
+			},
+			"beizi": {
+				"translate": [
+					{ "time": 0, "x": -0.73, "y": 0 }
+				]
+			}
+		}
+	},
+	"RightLoop": {
+		"slots": {
+			"beizi": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-6": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-7": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-8": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"expression_1-9": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	}
+}
+}

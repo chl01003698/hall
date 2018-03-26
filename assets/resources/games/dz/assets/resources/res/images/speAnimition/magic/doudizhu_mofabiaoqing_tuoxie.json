@@ -1,0 +1,106 @@
+{
+"skeleton": { "hash": "Pye5e9Y6qWXyh7RcqVNAWeXiYM0", "spine": "3.6.50", "width": 120, "height": 120, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "light", "parent": "root" },
+	{ "name": "shoes", "parent": "root" },
+	{ "name": "shoseShadow", "parent": "root" }
+],
+"slots": [
+	{ "name": "light", "bone": "light", "attachment": "light" },
+	{ "name": "shoesShadow", "bone": "shoseShadow", "attachment": "shoesShadow" },
+	{ "name": "shoes", "bone": "shoes", "attachment": "shoes" }
+],
+"skins": {
+	"default": {
+		"light": {
+			"light": { "width": 120, "height": 120 }
+		},
+		"shoes": {
+			"shoes": { "width": 78, "height": 93 }
+		},
+		"shoesShadow": {
+			"shoesShadow": { "width": 78, "height": 93 }
+		}
+	}
+},
+"animations": {
+	"Shoes": {
+		"slots": {
+			"light": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.1333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light" }
+				]
+			},
+			"shoes": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				]
+			},
+			"shoesShadow": {
+				"color": [
+					{ "time": 0.3, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.0667, "color": "ffffffff" },
+					{ "time": 2.0667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "shoesShadow" }
+				]
+			}
+		},
+		"bones": {
+			"light": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.339, 0.57, 0.75, 1 ]
+					},
+					{ "time": 0.1333, "x": 2.5, "y": 2.5 }
+				]
+			},
+			"shoes": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 1.6667, "x": -1.94, "y": -79.04 }
+				]
+			}
+		}
+	},
+	"ShoesLoop": {
+		"slots": {
+			"light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shoesShadow": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"shoes": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": 90 },
+					{ "time": 0.3333, "angle": 180 },
+					{ "time": 0.5, "angle": -90 },
+					{ "time": 0.6667, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

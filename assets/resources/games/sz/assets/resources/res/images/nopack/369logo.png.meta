@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "56496af0-83e3-4093-ad35-283c8b63be62",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "369logo": {
+      "ver": "1.0.3",
+      "uuid": "80844315-c5f4-492c-b140-793bf98ef7ab",
+      "rawTextureUuid": "56496af0-83e3-4093-ad35-283c8b63be62",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 624,
+      "height": 351,
+      "rawWidth": 624,
+      "rawHeight": 351,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

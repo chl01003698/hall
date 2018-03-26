@@ -1,0 +1,282 @@
+{
+    "type": "test",
+    "title": "测试",
+    "column": 5,
+    "colWidth": 150,
+    "colHeight": 50,
+    "children": [
+        {
+            "name": "test1",
+            "title": "测试1",
+            "type": "group",
+            "children": [
+                {
+                    "name": "t1r1",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "name": "t1r11",
+                            "title": "xxx",
+                            "selected":true
+                        },
+                        {
+                            "name": "t1r12",
+                            "title": "xxx"
+                        },
+                        {
+                            "name": "t1r13",
+                            "title": "xxx"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test2",
+            "title": "测试2",
+            "type": "group",
+            "children": [
+                {
+                    "name": "c",
+                    "type": "check",
+                    "limit": 1,
+                    "options": [
+                        {
+                            "name": "c1",
+                            "title": "xxx"
+                        },
+                        {
+                            "name": "c2",
+                            "title": "xxx"
+                        },
+                        {
+                            "name": "c3",
+                            "title": "xxx"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "line"
+        },
+        {
+            "name": "test3",
+            "title": "测试3",
+            "type": "group",
+            "children": [
+                {
+                    "type": "radio",
+                    "name": "tr1",
+                    "options": [
+                        {
+                            "name":"tr11",
+                            "title": "xxx"
+                        },
+                        {
+                            "name":"tr12",
+                            "title": "xxx"
+                        },
+                        {
+                            "name":"tr13",
+                            "title": "xxx"
+                        }
+                    ]
+                },
+                {
+                    "name": "t3c",
+                    "type": "check",
+                    "options": [
+                        {
+                            "name": "t3c1",
+                            "title": "xxx",
+                            "condition":"tr13"
+                        },
+                        {
+                            "name": "t3c2",
+                            "title": "xxx",
+                            "condition":"tr13||tr12"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test4",
+            "title": "测试4",
+            "type": "group",
+            "children": [
+                {
+                    "name": "r0",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "name":"r01",
+                            "title": "xxx"
+                        },
+                        {
+                            "name":"r02",
+                            "title": "xxx"
+                        }
+                    ]
+                },
+                {
+                    "name": "r1",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "isNewLine":true,
+                            "name":"r11",
+                            "title": "xxx"
+                        },
+                        {
+                            "name":"r12",
+                            "title": "xxx"
+                        }
+                    ]
+                },
+                {
+                    "name": "cc",
+                    "type": "check",
+                    "options": [
+                        {
+                            "name": "cc1",
+                            "title": "xxx"
+                        },
+                        {
+                            "name": "cc2",
+                            "title": "xxx"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test5",
+            "title": "测试5",
+            "type": "group",
+            "children": [
+                {
+                    "name": "t5c0",
+                    "type": "check",
+                    "options": [
+                        {
+                            "name": "t5c01",
+                            "title": "xxx"
+                        },
+                        {
+                            "name": "t5c02",
+                            "title": "xxx"
+                        },
+                        {
+                            "name": "t5c03",
+                            "title": "xxx",
+                            "isNewLine": true
+                        },
+                        {
+                            "name": "t5c04",
+                            "title": "xxx"
+                        },
+                        {
+                            "name": "t5c05",
+                            "title": "xxx",
+                            "condition":"t5c04"
+                        },
+                        {
+                            "name": "t5c06",
+                            "title": "xxx",
+                            "condition":"t5c04"
+                        },
+                        {
+                            "name": "t5c07",
+                            "title": "xxx"
+                        },
+                        {
+                            "name": "t5c08",
+                            "title": "xxx"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test6",
+            "title": "测试6",
+            "type": "group",
+            "children": [
+                {
+                    "name": "t6r0",
+                    "type": "radio",
+                    "options": [
+                        {   
+                            "name":"t6r01",
+                            "title": "xxx"
+                        },
+                        {
+                            "name":"t6r02",
+                            "title": "xxx"
+                        },
+                        {
+                            "name":"t6r03",
+                            "title": "xxx"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test7",
+            "title": "测试7",
+            "type": "group",
+            "children": [
+                {
+                    "name": "t7r0",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "name":"t7r01",
+                            "title": "xxx",
+                            "condition":"t6r03"
+                        },
+                        {
+                            "name":"t7r02",
+                            "title": "xxx"
+                        },
+                        {
+                            "name":"t7r03",
+                            "title": "xxx"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "default": {
+        "fuka": {
+            "value": 0
+        },
+        "jushu": {
+            "value": 0
+        },
+        "fengding": {
+            "extra": {
+                "score32": true
+            }
+        },
+        "fapai": {
+            "value": 0
+        },
+        "jiaodizhu": {
+            "value": 0
+        },
+        "qiangdizhu": {
+            "value": 1,
+            "extra": {
+                "menzhua": true
+            }
+        },
+        "tila": {
+            "value": 0
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "tslint-no-circular-imports": "^0.2.1"
+  }
+}

@@ -1,0 +1,264 @@
+{
+"skeleton": { "hash": "tINAH/fWKRFWTOVQp2k07DhkkMo", "spine": "3.6.52", "width": 511, "height": 489, "images": "./images/" },
+"bones": [
+	{ "name": "root", "x": 24.95, "y": 6.93 },
+	{ "name": "ddzwl_shibaiguang", "parent": "root" },
+	{ "name": "ddzwl_yun", "parent": "root", "x": 35.34, "y": 169.78 },
+	{ "name": "dizhu_shibai_renwu", "parent": "root", "x": -149, "y": 110.19 },
+	{ "name": "dizhu_shiban_txt", "parent": "root", "x": -19.08, "y": -9.16 },
+	{ "name": "nongmin_shiban_renwu", "parent": "root", "x": -110.09, "y": 98.97 },
+	{ "name": "nongmin_shiban_txt", "parent": "root" },
+	{ "name": "shiban_zhuangshi_bj", "parent": "root" }
+],
+"slots": [
+	{ "name": "ddzwl_shibaiguang", "bone": "ddzwl_shibaiguang", "attachment": "ddzwl_shibaiguang" },
+	{ "name": "nongmin_shiban_renwu", "bone": "nongmin_shiban_renwu", "attachment": "nongmin_shiban_renwu" },
+	{ "name": "dizhu_shibai_renwu", "bone": "dizhu_shibai_renwu" },
+	{ "name": "shiban_zhuangshi_bj", "bone": "shiban_zhuangshi_bj", "attachment": "shiban_zhuangshi_bj" },
+	{ "name": "ddzwl_yun", "bone": "ddzwl_yun", "attachment": "ddzwl_yun" },
+	{ "name": "dizhu_shiban_txt", "bone": "dizhu_shiban_txt", "attachment": "dizhu_shiban_txt" },
+	{ "name": "nongmin_shiban_txt", "bone": "nongmin_shiban_txt" }
+],
+"skins": {
+	"default": {
+		"ddzwl_shibaiguang": {
+			"ddzwl_shibaiguang": { "width": 511, "height": 489 }
+		},
+		"ddzwl_yun": {
+			"ddzwl_yun": { "x": 1.68, "y": -21.79, "width": 180, "height": 102 }
+		},
+		"dizhu_shibai_renwu": {
+			"dizhu_shibai_renwu": { "x": 45, "y": -43.24, "width": 143, "height": 258 }
+		},
+		"dizhu_shiban_txt": {
+			"dizhu_shiban_txt": { "width": 277, "height": 136 }
+		},
+		"nongmin_shiban_renwu": {
+			"nongmin_shiban_renwu": { "width": 114, "height": 206 }
+		},
+		"nongmin_shiban_txt": {
+			"nongmin_shiban_txt": { "x": -2.47, "y": -7.42, "width": 276, "height": 136 }
+		},
+		"shiban_zhuangshi_bj": {
+			"shiban_zhuangshi_bj": { "width": 456, "height": 220 }
+		}
+	}
+},
+"animations": {
+	"lordfail": {
+		"slots": {
+			"ddzwl_shibaiguang": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 4.8333, "color": "ffffffff" }
+				]
+			},
+			"ddzwl_yun": {
+				"color": [
+					{ "time": 0.5333, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5333, "name": "ddzwl_yun" }
+				]
+			},
+			"dizhu_shibai_renwu": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5333, "name": "dizhu_shibai_renwu" }
+				]
+			},
+			"dizhu_shiban_txt": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3667, "name": "dizhu_shiban_txt" }
+				]
+			},
+			"nongmin_shiban_renwu": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"nongmin_shiban_txt": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"shiban_zhuangshi_bj": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"x": 1.2,
+						"y": 1.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 0.95,
+						"y": 0.95,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5667,
+						"x": 1.1,
+						"y": 1.1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.7333, "x": 1, "y": 1 }
+				]
+			},
+			"dizhu_shiban_txt": {
+				"scale": [
+					{
+						"time": 0.3667,
+						"x": 3,
+						"y": 3,
+						"curve": [ 0.235, 0, 0.781, 0.47 ]
+					},
+					{ "time": 0.5333, "x": 1, "y": 1 }
+				]
+			},
+			"ddzwl_yun": {
+				"translate": [
+					{
+						"time": 0.5333,
+						"x": 0,
+						"y": -18.09,
+						"curve": [ 0.206, 0.47, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"dizhu_shibai_renwu": {
+				"translate": [
+					{
+						"time": 0.5333,
+						"x": 0,
+						"y": -21.48,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8667, "x": 0, "y": -9.79 }
+				]
+			}
+		}
+	},
+	"proplefail": {
+		"slots": {
+			"ddzwl_shibaiguang": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 4.8333, "color": "ffffffff" }
+				]
+			},
+			"ddzwl_yun": {
+				"color": [
+					{ "time": 0.5333, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5333, "name": "ddzwl_yun" }
+				]
+			},
+			"dizhu_shibai_renwu": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"dizhu_shiban_txt": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"nongmin_shiban_renwu": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "nongmin_shiban_renwu" }
+				]
+			},
+			"nongmin_shiban_txt": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3667, "name": "nongmin_shiban_txt" }
+				]
+			}
+		},
+		"bones": {
+			"shiban_zhuangshi_bj": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"x": 1.2,
+						"y": 1.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 0.95,
+						"y": 0.95,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5667,
+						"x": 1.1,
+						"y": 1.1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.7333, "x": 1, "y": 1 }
+				]
+			},
+			"ddzwl_yun": {
+				"translate": [
+					{
+						"time": 0.5333,
+						"x": 0,
+						"y": -18.09,
+						"curve": [ 0.206, 0.47, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"nongmin_shiban_txt": {
+				"scale": [
+					{ "time": 0.3667, "x": 3, "y": 3 },
+					{ "time": 0.5333, "x": 1, "y": 1 }
+				]
+			},
+			"nongmin_shiban_renwu": {
+				"translate": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 50.17,
+						"curve": [ 0.25, 0, 0.803, 0.49 ]
+					},
+					{ "time": 0.5667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,152 @@
+
+chouma.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_00003
+  rotate: false
+  xy: 772, 6
+  size: 214, 321
+  orig: 214, 321
+  offset: 0, 0
+  index: -1
+bg_00004
+  rotate: true
+  xy: 382, 2
+  size: 213, 388
+  orig: 213, 388
+  offset: 0, 0
+  index: -1
+bg_00005
+  rotate: false
+  xy: 2, 609
+  size: 211, 412
+  orig: 211, 412
+  offset: 0, 0
+  index: -1
+bg_00006
+  rotate: false
+  xy: 215, 614
+  size: 211, 407
+  orig: 211, 407
+  offset: 0, 0
+  index: -1
+bg_00007
+  rotate: false
+  xy: 220, 217
+  size: 211, 395
+  orig: 211, 395
+  offset: 0, 0
+  index: -1
+bg_00008
+  rotate: false
+  xy: 484, 305
+  size: 210, 356
+  orig: 210, 356
+  offset: 0, 0
+  index: -1
+bg_00009
+  rotate: false
+  xy: 428, 663
+  size: 213, 358
+  orig: 213, 358
+  offset: 0, 0
+  index: -1
+bg_00010
+  rotate: false
+  xy: 696, 329
+  size: 201, 355
+  orig: 201, 355
+  offset: 0, 0
+  index: -1
+bg_00011
+  rotate: true
+  xy: 2, 7
+  size: 199, 378
+  orig: 199, 378
+  offset: 0, 0
+  index: -1
+bg_00014
+  rotate: false
+  xy: 2, 208
+  size: 216, 399
+  orig: 216, 399
+  offset: 0, 0
+  index: -1
+bg_00015
+  rotate: false
+  xy: 643, 686
+  size: 215, 335
+  orig: 215, 335
+  offset: 0, 0
+  index: -1
+bg_00017
+  rotate: false
+  xy: 860, 815
+  size: 142, 206
+  orig: 142, 206
+  offset: 0, 0
+  index: -1
+bg_00018
+  rotate: false
+  xy: 433, 231
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+bg_00019
+  rotate: false
+  xy: 506, 231
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+bg_00020
+  rotate: false
+  xy: 428, 646
+  size: 54, 15
+  orig: 54, 15
+  offset: 0, 0
+  index: -1
+
+chouma2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_00002
+  rotate: false
+  xy: 585, 126
+  size: 215, 254
+  orig: 215, 254
+  offset: 0, 0
+  index: -1
+bg_0001
+  rotate: false
+  xy: 802, 216
+  size: 202, 164
+  orig: 202, 164
+  offset: 0, 0
+  index: -1
+bg_00012
+  rotate: false
+  xy: 185, 7
+  size: 180, 373
+  orig: 180, 373
+  offset: 0, 0
+  index: -1
+bg_00013
+  rotate: false
+  xy: 2, 2
+  size: 181, 378
+  orig: 181, 378
+  offset: 0, 0
+  index: -1
+bg_00016
+  rotate: false
+  xy: 367, 110
+  size: 216, 270
+  orig: 216, 270
+  offset: 0, 0
+  index: -1

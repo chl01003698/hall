@@ -1,0 +1,48 @@
+
+TableGirl.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paizuo_heguan1
+  rotate: false
+  xy: 2, 46
+  size: 148, 190
+  orig: 148, 190
+  offset: 0, 0
+  index: -1
+paizuo_heguan2
+  rotate: true
+  xy: 2, 2
+  size: 42, 114
+  orig: 42, 114
+  offset: 0, 0
+  index: -1
+youyanpi
+  rotate: false
+  xy: 152, 215
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+youyanpi02
+  rotate: true
+  xy: 118, 9
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+zuoyanpi
+  rotate: false
+  xy: 152, 193
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+zuoyanpin02
+  rotate: false
+  xy: 189, 219
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1

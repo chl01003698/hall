@@ -1,0 +1,20 @@
+
+doudizhu_paizhuo_fanchun02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fanchun
+  rotate: true
+  xy: 278, 2
+  size: 312, 142
+  orig: 312, 142
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 2, 10
+  size: 274, 304
+  orig: 274, 304
+  offset: 0, 0
+  index: -1

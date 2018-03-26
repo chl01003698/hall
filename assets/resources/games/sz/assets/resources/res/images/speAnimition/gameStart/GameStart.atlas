@@ -1,0 +1,41 @@
+
+GameStart.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Game
+  rotate: false
+  xy: 521, 144
+  size: 166, 93
+  orig: 166, 93
+  offset: 0, 0
+  index: -1
+GameLight
+  rotate: false
+  xy: 2, 2
+  size: 258, 83
+  orig: 258, 83
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 87
+  size: 258, 150
+  orig: 258, 150
+  offset: 0, 0
+  index: -1
+Start
+  rotate: false
+  xy: 262, 33
+  size: 167, 93
+  orig: 167, 93
+  offset: 0, 0
+  index: -1
+StartLight
+  rotate: false
+  xy: 262, 128
+  size: 257, 109
+  orig: 257, 109
+  offset: 0, 0
+  index: -1

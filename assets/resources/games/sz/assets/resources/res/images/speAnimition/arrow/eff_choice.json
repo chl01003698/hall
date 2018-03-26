@@ -1,0 +1,87 @@
+{
+"skeleton": { "hash": "PRk8FDIvQ8QJ0xTJ9o7WsJ4LBEc", "spine": "3.6.52", "width": 105.94, "height": 65, "images": "./images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "choice", "bone": "root", "attachment": "choice" },
+	{ "name": "choice2", "bone": "root", "attachment": "choice" },
+	{ "name": "choice3", "bone": "root", "attachment": "choice" }
+],
+"skins": {
+	"default": {
+		"choice": {
+			"choice": { "x": 23.18, "y": 32.5, "scaleX": 0.9, "scaleY": 0.9, "width": 60, "height": 65 }
+		},
+		"choice2": {
+			"choice": { "x": 47.03, "y": 32.5, "scaleX": 0.95, "scaleY": 0.92, "width": 60, "height": 65 }
+		},
+		"choice3": {
+			"choice": { "x": 72.11, "y": 32.5, "width": 60, "height": 65 }
+		}
+	}
+},
+"animations": {
+	"ChoiceLeft": {
+		"slots": {
+			"choice": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"choice2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"choice3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 }
+				]
+			}
+		}
+	},
+	"ChoiceRight": {
+		"slots": {
+			"choice": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"choice2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"choice3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

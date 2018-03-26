@@ -1,0 +1,13 @@
+
+zhuomian_icon_jiangbao.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clock
+  rotate: false
+  xy: 2, 2
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
